@@ -1,6 +1,6 @@
 # About Emilio Smith 
 
-![](../images/emilio1.png)
+![](../images/Emilio1.png)
 
 Industrial Designer from México, be in tune for more info.
 
