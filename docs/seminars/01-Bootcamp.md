@@ -5,4 +5,9 @@ hide:
 
 # Bootcamp
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Design for fairness
+My poster was a pretext for put together some causes that motivate me to work for a fairer world. 
+It is unfair that environmental activist has to put their own live at risk for protect any kind of species or just their territory, like Berta Caceres an environmental activist that was murderer in her house 
+There are some many examples of communities that lives almost free of needs of capitalism, like the Zapatistas. They have been told to people many times that we have to fight in our own territories with our own tools, so that´s why my fight starts with design. My fight as a designer is to improve the design solutions with new knowledge, working with people and be responsible and proactive about the social and environmental impact. 
+
+<img src="poster-1-mdeff.png" width="100%">
