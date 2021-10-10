@@ -12,3 +12,6 @@ There are some many examples of communities that lives almost free of needs of c
 
 <img src="poster-1-mdeff.png" width="100%">
 <img src="documents/web-mdef_2/mdef-template/docs/images/"poster-1-mdeff.png">
+<img src=C:\Users\hp\Documents\web-mdef_2\mdef-template\docs\"images"poster-1-mdeff.png">
+<img src=C:/Users/hp/Documents/web-mdef_2/mdef-template/docs/"images"poster-1-mdeff.png">
+<img src="poster-1-mdeff.png">
