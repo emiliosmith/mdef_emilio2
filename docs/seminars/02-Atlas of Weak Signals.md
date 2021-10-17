@@ -21,16 +21,10 @@ So I asked myself: Wouldn´t be nice to design an alternative system that allows
 
 
 
+<h1>Multiscalar diagram</h1> 
 
 
-
-
-Screenshot of your Multiscalar diagram - 
-
-
-Screenshot
-Reflect on your experience looking for weak signals in a situated approach though scales.
-Multiscalar diagram
+![](../images/multi Scalar_1.jpg)
 
 
 
@@ -43,15 +37,17 @@ I’m still working in this scales
 
 
 
-Screenshots of your collaborative design space
-How was the experience of finding points of resonance with others?
+<h1>Collaborative design space</h1> 
+![](../images/Collaborative space.jpg)
+
+Finding resonance
 
 At these point with my peers at the panel 5 State Futures - Land justice - distributed infrastructure = redistribution of opportunities - Post- passport - displacement - authorities- social movements - Radical Tech -Political Tech Futures, I feel that I was pushing the agenda for self-sufficiency re-gions or maybe in domestic. 
 I tried to make the connections between some triggers like the reuse of tech like a strategy for self-sufficiency and also how it could lead to a change in the economic system 
 
 
-Next steps - Based on the work this week please tell me:
-Someone you would like to contact
+<h1>Next steps</h1> 
+--Someone you would like to contact
 Fab cities 
 El Hierro, Blue Economy example, 
 Mónica Navarro, CEO y Co-Fundadora de Delicious & Sons, type B business example.
@@ -59,13 +55,13 @@ La casa de Carlota, is a design studio that I have found as an example of busine
 Alba Obiols, Responsable Diseño Circular en Barcelona centre de Disseny
 Anna’s father 
 
-An experiment you’d like to make
+--An experiment you’d like to make
 Ask people some questions such as:  If they know that at some point some of their activities causes harm in the environment and what would it take to people to shift to another economic par-adigm.
 Another experiment I would like to do Is to measure the impact on people of the data visualization, what I mean is that there is a lot of examples, exhibitions, data representation, art works, activism and so on, about the environmental crisis caused by human activities, I would like to know Is how much or how little a person changes their behavior after be exposed to an information of these kind.
 Because I would like to understand why is taking us so long for making changes in the way that we are living. 
 
-A new skill you’d like to add to your personal development plan
+--A new skill you’d like to add to your personal development plan
 to Use the magic wand to appear solutions out of nowhere to climate crisis.
-An skill that I want to add is to fix something broke, like a computer or a printer or a car engine just following a simple manual, like the “El libro de la familia” just to understand how easy or had could be reuse, remanufacture or repair or resources around us.
+An skill that I want to add is to fix something broke, like a computer,a printer or a car engine just following a simple manual, like the “El libro de la familia” just to understand how easy or had could be reuse, remanufacture or repair all the resources around us.
 
-![](../images/MT01/scorpio_blow.jpg)
+
