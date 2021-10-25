@@ -5,7 +5,7 @@ hide:
 
 # New me, designing a workspace
 
-so the starting point is the tabe of skills/knowledge/attitude, the map the new me, how could be a new me based on the future me defined in the chart
+so the starting point is the table of skills/knowledge/attitude, the map the new me, how could be a new me based on the future me defined in the chart
 map it
 
 insert image
