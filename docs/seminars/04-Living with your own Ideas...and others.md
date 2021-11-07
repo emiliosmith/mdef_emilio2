@@ -37,7 +37,7 @@ The point is understanding why if must of the people is aware of the environment
 
 ![](../images/1pp_1.png)
 # 1PP EXPLORATION
-## Searching for meaningful interactions
+##Searching for meaningful interactions
 ### Guided reflection.
 
 Briefly:
