@@ -6,10 +6,12 @@ hide:
 # Living with your own ideas
 
 ![](../images/magic-machine-1.png)
-The empathy machine
+## The empathy machine
+
 At first it is baffling to try to understand the velocity of the seminars but I understand the valuable of building knowledge through the making of prototypes.
+
 For this assignment of having one self as a mirror for design for other (1pp), the question: “what magic machine could help me in my life?” was without doubt a machine that could tell me what the other people is felling, and not only to know the felling but to feel what they feel, to feel it in my own body.
-Picture
+
 So basically my magic machine it’s a device connected to the head of the subject and then a cord connects the head device to an interface for my hand from I get to feel trough touching with a special glove
 
 ![](../images/magic-machine-2.png)
@@ -18,7 +20,8 @@ So basically my magic machine it’s a device connected to the head of the subje
 And give it a second though with the comments of Oscar and Kristina I put a lot of filter for just understand to other people.
 
 
-Insight
+###Insight
+
 One thing that I can catch from the dynamic is that when you put yourself in the 1pp perspective you can use your own self context and body in order to reflect in the other anything.  In that action you can see yourself reflected at the same time, therefore you recognize something about yourself in the other and the similarities start to appearing, having at some point some level of empathy.
 
 That maybe can be obvious in some point but it is clear for me and I hope that is the same with others, that one design for the other, the interaction between people or designing for people and whit people shape us. We have to design having in mind the other person, we could design for connection, meaningful interaction or whatever; but the main thing that shape our design is designing for the other, it shapes us, shape our practice and shape the characteristics of the interventions.
@@ -32,7 +35,7 @@ Can the non-designer could be more emphatic with the environment or immigrants, 
 
 The point is understanding why if must of the people is aware of the environmental and social crisis caused by capitalism, no one is willing to make a radical change or systemic change.
 
-
+![](../images/1pp_1.png)
 # 1PP EXPLORATION
 ## Searching for meaningful interactions
 ### Guided reflection.
@@ -60,3 +63,5 @@ That if we try to design the social interaction most of the time we are going to
 
 *• After seeing the videos of your collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*
 I found amazing work of the collective, with a topic that could be explored in deeper or critical way such as the contextualization/decontextualization of the objects performed by Andrea, that approach could be used as tool for criticism, also the context/empathy exercise from Busy and Angel offers a good perspective of understanding the world could function if we are not the same person with the same qualities as we are now.
+
+Also I found very interesting the approaches of comparing or analyzing the products we use or how we as consumers waste. Everyone has a unique approach and, so far, I think they are interested in a grater good.  
