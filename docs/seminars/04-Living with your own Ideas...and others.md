@@ -38,6 +38,7 @@ The point is understanding why if must of the people is aware of the environment
 ### Guided reflection.
 
 Briefly:
+
 *• What did you make? And why did it matter?*
 I tried to have interactions with people in the street, as first attempt because I found important to be relatable with people I is an effort to understand how to connect with people in different ways or levels. For me is more to develop a skill because at one point we have design with other and for others, and in order to do that, we as designers need to understand how to engage properly with people or communities in a horizontal and participatory level for having meaningful design outcomes
 
