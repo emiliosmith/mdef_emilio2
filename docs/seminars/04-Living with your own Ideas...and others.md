@@ -33,22 +33,29 @@ Can the non-designer could be more emphatic with the environment or immigrants, 
 The point is understanding why if must of the people is aware of the environmental and social crisis caused by capitalism, no one is willing to make a radical change or systemic change.
 
 
-1PP EXPLORATION
-Searching for meaningful interactions
-Guided reflection.
+# 1PP EXPLORATION
+## Searching for meaningful interactions
+### Guided reflection.
+
 Briefly:
-• What did you make? And why did it matter?
+*• What did you make? And why did it matter?*
 I tried to have interactions with people in the street, as first attempt because I found important to be relatable with people I is an effort to understand how to connect with people in different ways or levels. For me is more to develop a skill because at one point we have design with other and for others, and in order to do that, we as designers need to understand how to engage properly with people or communities in a horizontal and participatory level for having meaningful design outcomes
-• What happens when you involve yourself?
+
+*• What happens when you involve yourself?*
 For me 1pp I tried to understand it as an exercise for exploration of an idea, but in some point, because of the nature of my exploration, it became blurry at first the line between an exploration and an ethnography.
-• What happens when you use yourself as an instrument?
+
+*• What happens when you use yourself as an instrument?*
 Many things happen during the exercise, I tried to adapt myself and to have creative responses, but at the end everything flows perfectly when the interaction starts spontaneously.
+
 Another thing is that in some point of the interaction I became aware that I was in a roll of designer making an investigation of the subjects so I try to just relax and be a subject of experiences that was a meaningful interaction. In that point I stop to worried about the information or how I was going to present the exploration. At the end I accomplish the goal of my exploration which was to have a meaningful interaction.
-• Did anything change about your way of working?
+
+*• Did anything change about your way of working?*
 It changed a lot that day, in first place because at first I made an attempt to approach people but I think it was in some way disruptive and not pleasant for them to interrupt them, it doesn’t matter if they were not doing anything and form it was not spontaneous from my side, I choose who to approach and how to start the conversation and also I was feeling insecure because I was having a little bit of a cold in those days.
+
 The second attempt was more easy because I identify a group of people which I know we have common interest or at least something in common. As a result, I got a meaningful interaction and the only thing that I had to do was to go there with them, spontaneously.
-• What does it mean for your future work?
+
+*• What does it mean for your future work?*
 That if we try to design the social interaction most of the time we are going to have random outcomes, so in a way a design for social intervention could be designed for or with some degree of randomness and spontaneity.
 
-• After seeing the videos of your collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?
+*• After seeing the videos of your collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*
 I found amazing work of the collective, with a topic that could be explored in deeper or critical way such as the contextualization/decontextualization of the objects performed by Andrea, that approach could be used as tool for criticism, also the context/empathy exercise from Busy and Angel offers a good perspective of understanding the world could function if we are not the same person with the same qualities as we are now.
