@@ -70,4 +70,6 @@ That if we try to design the social interaction most of the time we are going to
 
 I found amazing work of the collective, with a topic that could be explored in deeper or critical way such as the contextualization/decontextualization of the objects performed by Andrea, that approach could be used as tool for criticism, also the context/empathy exercise from Busy and Angel offers a good perspective of understanding the world could function if we are not the same person with the same qualities as we are now.
 
-Also I found very interesting the approaches of comparing or analyzing the products we use or how we as consumers waste. Everyone has a unique approach and, so far, I think they are interested in a grater good.  
+Also I found very interesting the approaches of comparing or analyzing the products we use or how we as consumers waste. Everyone has a unique approach and, so far, I think they are interested in a grater good.
+
+![](../images/Emilio_meaningful_living.mp4)
