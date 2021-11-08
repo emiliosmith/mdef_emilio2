@@ -36,8 +36,11 @@ Can the non-designer could be more emphatic with the environment or immigrants, 
 The point is understanding why if must of the people is aware of the environmental and social crisis caused by capitalism, no one is willing to make a radical change or systemic change.
 
 ![](../images/1pp_1.png)
+
 # 1PP EXPLORATION
+
 ##Searching for meaningful interactions
+
 ### Guided reflection.
 
 Briefly:
@@ -72,5 +75,9 @@ I found amazing work of the collective, with a topic that could be explored in d
 
 Also I found very interesting the approaches of comparing or analyzing the products we use or how we as consumers waste. Everyone has a unique approach and, so far, I think they are interested in a grater good.
 
+*watch the video*
 
 [![Meaningful interactions](https://res.cloudinary.com/marcomontalbano/image/upload/v1636372153/video_to_markdown/images/youtube--FwcUjw-nsCc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FwcUjw-nsCc "Meaningful interactions")
+
+
+![](https://youtu.be/FwcUjw-nsCc)
