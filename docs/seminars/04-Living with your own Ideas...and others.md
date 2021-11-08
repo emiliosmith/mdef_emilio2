@@ -80,8 +80,17 @@ Also I found very interesting the approaches of comparing or analyzing the produ
 
 [![prueba arturo escobar](https://res.cloudinary.com/marcomontalbano/image/upload/v1636370843/video_to_markdown/images/youtube--p6KsJ-vDO7k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/p6KsJ-vDO7k "prueba arturo escobar")
 
-<!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://youtu.be/FwcUjw-nsCc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/p6KsJ-vDO7k" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="../images/1pp_1.png">
+    <source src="../images/Emilio_meaningful_living.mp4" type="video/mp4">
+  </video>
+</figure>
