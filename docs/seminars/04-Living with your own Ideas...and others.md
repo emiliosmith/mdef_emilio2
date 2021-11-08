@@ -37,11 +37,12 @@ The point is understanding why if must of the people is aware of the environment
 
 ![](../images/1pp_1.png)
 
-# 1PP EXPLORATION
 
-##Searching for meaningful interactions
+#1PP EXPLORATION
 
-### Guided reflection.
+## Searching for meaningful interactions
+
+###Guided reflection.
 
 Briefly:
 
@@ -78,6 +79,5 @@ Also I found very interesting the approaches of comparing or analyzing the produ
 *watch the video*
 
 [![Meaningful interactions](https://res.cloudinary.com/marcomontalbano/image/upload/v1636372153/video_to_markdown/images/youtube--FwcUjw-nsCc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FwcUjw-nsCc "Meaningful interactions")
-
 
 ![](https://youtu.be/FwcUjw-nsCc)
