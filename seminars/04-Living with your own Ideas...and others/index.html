@@ -509,6 +509,28 @@ Can the non-designer could be more emphatic with the environment or immigrants, 
 <figure class="video_container">
   <iframe src="https://youtu.be/FwcUjw-nsCc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+<p>render: function (tokens, idx) {
+    // check if the type is &lsquo;container_youtube_open&rsquo;
+    if (tokens[idx].type === &lsquo;container_youtube_open&rsquo;) {
+        // match the strings that are in the form <code>https://youtu.be/FwcUjw-nsCc</code>
+        const matches = tokens[idx].info.trim().match(/^youtube\s<em>[(.</em>)]$/)</p>
+<div class="codehilite"><pre><span></span><code>    // If matches are found, and there is also a match for the first group, fetch it. That match is our youtube URL.
+    if (matches &amp;&amp; matches[1]) {
+        // Now generate iframe markup from that youtube url.
+        return (
+            &#39;&lt;div class=&quot;text-center video-container&quot;&gt;&#39; +
+              getYoutubeIframeMarkup({ url: matches[1].trim() }) +
+              &#39;&lt;/div&gt;&lt;div class=&quot;text-center font-weight-light text-capitalize&quot;&gt;&#39;
+        )
+    }
+} else if (tokens[idx].type === &#39;container_youtube_close&#39;) {
+    // when we get to the &#39;container_youtube_close&#39;, close the div that we opened before.
+    return &#39;&lt;/div&gt;&#39;
+}
+</code></pre></div>
+
+<p>},</p>
                 
                   
                     
