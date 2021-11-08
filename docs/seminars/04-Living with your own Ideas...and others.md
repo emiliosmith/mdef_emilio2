@@ -77,33 +77,3 @@ Also I found very interesting the approaches of comparing or analyzing the produ
 ![](../images/scorpio_blow.gif)
 
 [![Meaningful interactions](https://res.cloudinary.com/marcomontalbano/image/upload/v1636372153/video_to_markdown/images/youtube--FwcUjw-nsCc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FwcUjw-nsCc "Meaningful interactions")
-
-<figure class="video_container">
-  <iframe src="https://youtu.be/FwcUjw-nsCc" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-render: function (tokens, idx) {
-    // check if the type is 'container_youtube_open'
-    if (tokens[idx].type === 'container_youtube_open') {
-        // match the strings that are in the form `https://youtu.be/FwcUjw-nsCc`
-        const matches = tokens[idx].info.trim().match(/^youtube\s*\[(.*)]$/)
-
-        // If matches are found, and there is also a match for the first group, fetch it. That match is our youtube URL.
-        if (matches && matches[1]) {
-            // Now generate iframe markup from that youtube url.
-            return (
-                '<div class="text-center video-container">' +
-                  getYoutubeIframeMarkup({ url: matches[1].trim() }) +
-                  '</div><div class="text-center font-weight-light text-capitalize">'
-            )
-        }
-    } else if (tokens[idx].type === 'container_youtube_close') {
-        // when we get to the 'container_youtube_close', close the div that we opened before.
-        return '</div>'
-    }
-},
-
-
-:::youtube[https://www.youtube.com/watch?v=0pThnRneDjw]
-Web Development In 2020
-:::
