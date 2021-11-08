@@ -73,12 +73,4 @@ I found amazing work of the collective, with a topic that could be explored in d
 Also I found very interesting the approaches of comparing or analyzing the products we use or how we as consumers waste. Everyone has a unique approach and, so far, I think they are interested in a grater good.
 
 
-
-![](../images/scorpio_blow.gif)
-
 [![Meaningful interactions](https://res.cloudinary.com/marcomontalbano/image/upload/v1636372153/video_to_markdown/images/youtube--FwcUjw-nsCc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FwcUjw-nsCc "Meaningful interactions")
-
-
-<figure class="video_container">
-  <iframe src="https://youtu.be/FwcUjw-nsCc" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
