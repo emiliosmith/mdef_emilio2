@@ -74,4 +74,6 @@ Also I found very interesting the approaches of comparing or analyzing the produ
 
 ![](../images/Emilio_meaningful_living.mp4)
 
+![](../images/scorpio_blow.gif)
+
 [![prueba arturo escobar](https://res.cloudinary.com/marcomontalbano/image/upload/v1636370843/video_to_markdown/images/youtube--p6KsJ-vDO7k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/p6KsJ-vDO7k "prueba arturo escobar")
