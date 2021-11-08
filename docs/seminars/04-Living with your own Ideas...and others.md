@@ -94,3 +94,11 @@ Also I found very interesting the approaches of comparing or analyzing the produ
     <source src=../images/Emilio_meaningful_living.mp4 type="video/mp4">
   </video>
 </figure>
+
+<video controls width="250">
+
+    <source src="/images/Emilio_meaningful_living.mp4"
+            type="video/mp4>
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
