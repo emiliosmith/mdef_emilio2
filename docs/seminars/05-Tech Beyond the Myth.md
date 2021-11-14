@@ -14,7 +14,7 @@ Visit the link for the report
 [iMac Destructor](https://docs.google.com/document/d/1ZNUcvKs4-x-L-aVGBumVndaLHpxK71t9pLupsMx1hZ0/edit?usp=sharing)
 
 
->##Insight
+>##Reflections
 >###The styling slavery
 Disassembling the iMac 2006 , was for me like a magician trick, the one in which he keeps pulling out infinite amount of handkerchiefs form his sleeve. As we were disassembling the different part of the computer we were finding seals, screws, foils, plates, tapes, cables, connectors, board, drivers, frames, big parts and smaller parts. One can’t avoid thinking about the un-recyclability or re-usability (in the best case scenario) of those components. Must of the circuits board are still operational, but not much efficiently in comparison with the newest devices.
 
