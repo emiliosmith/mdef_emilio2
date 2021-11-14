@@ -14,8 +14,22 @@ Visit the link for the report
 
 
 
-##Insight
+>##Insight
+>###The styling slavery
+The report from the iMac Destruction, was for me like a magician trick, the one in which he keeps pulling out infinite amount of handkerchiefs form his sleeve. As we were disassembling the different part of the computer we were finding seals, screws, foils, plates, tapes, cables, connectors, board, drivers, frames, big parts and smaller parts. One can’t avoid thinking about the un-recyclability or re-usability (in the best case scenario) of those components. Must of the circuits board are still operational, but not much efficiently in comparison with the newest devices.
 
+>From one side, we could appreciate the form and style of the case of different appliances, and one cannot stop thinking about how this external cases are just a pretext for the design styling that satisfy an imposed need for aesthetics. This styling lead to design and manufacture artifacts and appliances as black boxes totally away of the consumer’s hands. Maybe if we remove this cases could be spoken about more durable appliances and artifacts with universal drivers and motherboards, that you can used and shared, no matter is for a TV or a PC or whatever.
+
+>For other, at the present times, from the design and engineering point of view it doesn’t makes sense to keep designing with the same logic dictated by the market and the business models of the companies, that in order to survive (give us work and pay us money to eat) they must sell as many objects as fastest and cheapest they can.
+What would happen if courses like de MDEF could be more open and in some way attractive to students from a broader background or disciplines, like accounting, marketing, finance? How can we keep them away from the MBAs?
+
+>In enterprises like Apple, the design department probably is not as bigger as the law or accounting department. As designers, how can communicate and motivate other disciplines to design under new paradigms of consumption? such paradigm may have to respond to the real needs of the people, and not to the survival necessities of the business model of a company.
+
+>If we as a designers and engineers, know from fact that the technology would be obsolete in a few years, why don’t we design appliances and artifacts with that as guide?
+
+>Can appliances and objects could be designed from scraps parts or generic parts without a case, designed for grown in time? How these appliances could look like without a stylish case?
+
+>One think that I notice when the iMac was being disassembled, was that the sole act of manually handle the object produce some emotional reaction in the user, in these case the person that disassembled it. And I remember that in some point John Wood mention that another perspective to make a sustainable design is to have one object which the user would never trough it away. With that in mind, can we design appliances and artifacts that could stablish an emotional bonding with the user in order to never be discarded? Maybe we can design objects in which the user has to be more involved from the “birth” of the appliance, from selecting the material, the origin, the motherboards, the function that would perform and assembly it by himself, and keep it always updated and never obsolete.
 
 
 ##Sense-Making Journal - Urban Gardeners
