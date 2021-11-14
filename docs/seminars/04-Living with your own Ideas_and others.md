@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Living with your own ideas
+# Living with your own ideas...and others
 
 ![](../images/magic-machine-1.png)
 ## The empathy machine

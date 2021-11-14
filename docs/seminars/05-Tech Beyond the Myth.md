@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Living with your own ideas
+# Tech Beyond the Myth
 
 ![](../images/magic-machine-1.png)
 ## The empathy machine
