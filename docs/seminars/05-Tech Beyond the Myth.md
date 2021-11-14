@@ -5,18 +5,18 @@ hide:
 
 # Tech Beyond the Myth
 
-![](../images/magic-machine-1.png)
+![](../images/Imac_dis_1.jpg)
+
 ## iMac Destructor
 
 Visit the link for the report
+
 [iMac Destructor](https://docs.google.com/document/d/1ZNUcvKs4-x-L-aVGBumVndaLHpxK71t9pLupsMx1hZ0/edit?usp=sharing)
-
-
 
 
 >##Insight
 >###The styling slavery
-The report from the iMac Destruction, was for me like a magician trick, the one in which he keeps pulling out infinite amount of handkerchiefs form his sleeve. As we were disassembling the different part of the computer we were finding seals, screws, foils, plates, tapes, cables, connectors, board, drivers, frames, big parts and smaller parts. One can’t avoid thinking about the un-recyclability or re-usability (in the best case scenario) of those components. Must of the circuits board are still operational, but not much efficiently in comparison with the newest devices.
+Disassembling the iMac 2006 , was for me like a magician trick, the one in which he keeps pulling out infinite amount of handkerchiefs form his sleeve. As we were disassembling the different part of the computer we were finding seals, screws, foils, plates, tapes, cables, connectors, board, drivers, frames, big parts and smaller parts. One can’t avoid thinking about the un-recyclability or re-usability (in the best case scenario) of those components. Must of the circuits board are still operational, but not much efficiently in comparison with the newest devices.
 
 >From one side, we could appreciate the form and style of the case of different appliances, and one cannot stop thinking about how this external cases are just a pretext for the design styling that satisfy an imposed need for aesthetics. This styling lead to design and manufacture artifacts and appliances as black boxes totally away of the consumer’s hands. Maybe if we remove this cases could be spoken about more durable appliances and artifacts with universal drivers and motherboards, that you can used and shared, no matter is for a TV or a PC or whatever.
 
