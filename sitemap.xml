@@ -31,7 +31,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/seminars/04-Living%20with%20your%20own%20Ideas...and%20others/</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/04-Living%20with%20your%20own%20Ideas_and%20others/</loc>
+         <lastmod>2021-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/05-Tech%20Beyond%20the%20Myth/</loc>
          <lastmod>2021-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
