@@ -82,7 +82,8 @@ Each node or manufacture will metabolize a good that could be flow as a nutrient
 
 Could it be the same as the Graph Theory and find the optimal way to transfer atoms, instead of having big manufactures, we can have smaller ones with less consumption of resources, less environmental impact, more cooperation and wealth distribution.
 
-Create networks for distribute atoms.
+*Create networks for distribute atoms from a biomimicry approach.*
+
 So far the lectures about that are the next:
 
 ><https://link.springer.com/chapter/10.1007/978-3-642-01284-6_4>
@@ -94,7 +95,9 @@ So far the lectures about that are the next:
 
 ##Biomaterials
 
-From the webpage Materiom, I found a recipe for a bio-material based on coffee composite. Since I prepare my coffee at home and I drink a lot, in the next weeks I will have enough coffee waste for starting with the prototypes.
+From the webpage Materiom, I found a recipe for a bio-material composite based on coffee waste. Since I prepare my coffee at home and I drink a lot, it make sense to reuse my waste in some how.
+
+In the next weeks I will have enough coffee waste for starting with the prototypes.
 
 ><https://materiom.org/search>
 <https://materiom.org/recipe/171>
@@ -106,13 +109,11 @@ From the webpage Materiom, I found a recipe for a bio-material based on coffee c
 
 > ###Insight Agro Zero
 
->Insight
-
 >From the concept of Timothy Morton of dark ecology, in a moment when there is no more space for growing food or there are no people willing to work as a farmer, could the build environment be used for producing our own food? Could we hack our buildings or our homes to have enough space to grown our own food? How can we reproduce the environmental services lost from the nature?
 
 >![](../images/agro_3.jpg)
 
->Are we going to live like in the future such as the one proposed by Superflux in their installation “mitigation of Shock”?
+>Are we going to live like in the future such as the one proposed by Superflux in their installation “Mitigation of Shock”?
 
 >Let’s see the outcomes of seminar such as “Responsive cities” I will follow that closely.
 
