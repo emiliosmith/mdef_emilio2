@@ -27,19 +27,23 @@ foto
 ![](../images/soil-pyramid.jpg)
 After the samples of the soil taken from the trip to Collserola Natural Park we, try to identify the composition of the samples from different types of tests and observation.
 
+![](../images/agro_2.jpg)
+
 In particular, my sample didn’t work well a sample because was the top soil, mainly composed from leafs and small branches.
 We didn´t performed the text well
 
 ![](../images/spil_1.jpg)
-![](../images/spil_2.jpg)
-![](../images/spil_3.jpg)
+![](../images/soil_1.jpg)
+![](../images/soil_3.jpg)
 
 
 ##The adopted
-From the samples collected of one of my partners, we found a small leggy plant growing inside the bottle, so I tried to adopt
+From the samples collected of one of my partners, we found a small leggy plant growing inside the bottle, so I adopted it.
 
 ![](../images/plant_1.jpg)
+
 But sadly I think that I over watered it and perhaps kill it. That is a shame because I tried to do everything that one is supposed to do to keep plants alive but doesn’t work.
+
 ![](../images/plant_2.jpg)
 
 > ###Insight
@@ -47,6 +51,7 @@ But sadly I think that I over watered it and perhaps kill it. That is a shame be
 
 ##Essential oils
 In this part of the seminar we were shown how no make essential oil from a distillation equipment. Basically the equipment allows us to distill any substance present in the plants. The amazing part is that it took a lot of Laurel’s leave just to make a small production of essential oil. It is considerable the amount of resources needed to that kind of production.
+
 ![](../images/Oil_1.jpg)
 
 
@@ -55,6 +60,7 @@ In this part of the seminar we were shown how no make essential oil from a disti
 ###PET-eater Mycelium
 
 > *References
+
 ><https://2019.igem.org/Team:Humboldt_Berlin/Description>
 <http://2016.igem.org/Team:Tianjin/Description>
 
@@ -65,7 +71,7 @@ So my mutant is to take a Mycelium as a chassis with this types of enzymes and s
 The objective is degrading the most amount of PET available in a Landfill and reduce the volume of it, allowing other process for handle the mixed waste more efficiently.
 
 ##Scientific paper review
-###Mycelium as a biological network as an example of biomimicry.
+###Mycelium as a biological network (an example of biomimicry).
 
 ![](../images/Mis_1.jpg)
 
@@ -94,14 +100,20 @@ From the webpage Materiom, I found a recipe for a bio-material based on coffee c
 <https://materiom.org/recipe/171>
 
 ![](../images/cafe_1.jpg)
-![](../images/cafe_2.jpg)
+
 ![](../images/bioMat_1.jpg)
 
 
 > ###Insight Agro Zero
+
 >Insight
-From the concept of Timothy Morton of dark ecology, in a moment when there is no more space for growing food or there are no people willing to work as a farmer, could the build environment be used for producing our own food? Could we hack our buildings or our homes to have enough space to grown our own food? How can we reproduce the environmental services lost from the nature?
-Foto boceto
-Are we going to live like in the future such as the one proposed by Superflux in their installation “mitigation of Shock”?
-Let’s see the outcomes of seminar such as “Responsive cities” I will follow that closely.
-https://superflux.in/index.php/work/mitigation-of-shock/#
+
+>From the concept of Timothy Morton of dark ecology, in a moment when there is no more space for growing food or there are no people willing to work as a farmer, could the build environment be used for producing our own food? Could we hack our buildings or our homes to have enough space to grown our own food? How can we reproduce the environmental services lost from the nature?
+
+>![](../images/agro_3.jpg)
+
+>Are we going to live like in the future such as the one proposed by Superflux in their installation “mitigation of Shock”?
+
+>Let’s see the outcomes of seminar such as “Responsive cities” I will follow that closely.
+
+><https://superflux.in/index.php/work/mitigation-of-shock/#>
