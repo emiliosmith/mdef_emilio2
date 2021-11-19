@@ -15,7 +15,7 @@ Visit the link for the report
 
 
 >##Reflections
->###The styling slavery
+>###The styling slavery???...dictatorship??..mmm working Title
 Disassembling the iMac 2006 , was for me like a magician trick, the one in which he keeps pulling out infinite amount of handkerchiefs form his sleeve. As we were disassembling the different part of the computer we were finding seals, screws, foils, plates, tapes, cables, connectors, board, drivers, frames, big parts and smaller parts. One can’t avoid thinking about the un-recyclability or re-usability (in the best case scenario) of those components. Must of the circuits board are still operational, but not much efficiently in comparison with the newest devices.
 
 >From one side, we could appreciate the form and style of the case of different appliances, and one cannot stop thinking about how this external cases are just a pretext for the design styling that satisfy an imposed need for aesthetics. This styling lead to design and manufacture artifacts and appliances as black boxes totally away of the consumer’s hands. Maybe if we remove this cases could be spoken about more durable appliances and artifacts with universal drivers and motherboards, that you can used and shared, no matter is for a TV or a PC or whatever.
@@ -31,6 +31,10 @@ What would happen if courses like de MDEF could be more open and in some way att
 
 >One think that I notice when the iMac was being disassembled, was that the sole act of manually handle the object produce some emotional reaction in the user, in these case the person that disassembled it. And I remember that in some point John Wood mention that another perspective to make a sustainable design is to have one object which the user would never trough it away. With that in mind, can we design appliances and artifacts that could stablish an emotional bonding with the user in order to never be discarded? Maybe we can design objects in which the user has to be more involved from the “birth” of the appliance, from selecting the material, the origin, the motherboards, the function that would perform and assembly it by himself, and keep it always updated and never obsolete.
 
+Could it be a game changer ? or just greenwashing ??
+[Apple repair , check](https://www.eluniversal.com.mx/techbit/apple-lanza-kit-para-que-repares-tu-iphone-en-casa)
+
+![](https://www.apple.com/environment/)
 
 ##Sense-Making Journal - Urban Gardeners
 ====================
