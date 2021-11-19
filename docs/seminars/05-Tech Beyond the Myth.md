@@ -34,7 +34,8 @@ What would happen if courses like de MDEF could be more open and in some way att
 Could it be a game changer ? or just greenwashing ??
 [Apple repair , check](https://www.eluniversal.com.mx/techbit/apple-lanza-kit-para-que-repares-tu-iphone-en-casa)
 
-![](https://www.apple.com/environment/)
+[Apple environment, check](https://www.apple.com/environment/)
+
 
 ##Sense-Making Journal - Urban Gardeners
 ====================
