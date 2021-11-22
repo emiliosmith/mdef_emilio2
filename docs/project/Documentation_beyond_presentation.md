@@ -7,8 +7,11 @@ hide:
 
 ##Refelction of my documentation process
 
+
+in process !!!!
 Oh, my documentation process is bad, really really bad
 Main points
+in proc
 -Not get used to it, in the work doensn apreciate
 use to slideshow
 -thinking to much in the Media
@@ -22,7 +25,9 @@ knowing that now i could do thing different
 ## The Almost Useful Machines
 ###documentation
 
-Video is comming
+
+[![TAUM emotional roadmap](https://res.cloudinary.com/marcomontalbano/image/upload/v1637587441/video_to_markdown/images/youtube--2ZdJCrXoViU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2ZdJCrXoViU "TAUM emotional roadmap")
+https://youtu.be/2ZdJCrXoViU
 
 ![](../images/pres_1-02.jpg)
 ![](../images/pres_1-03.jpg)
