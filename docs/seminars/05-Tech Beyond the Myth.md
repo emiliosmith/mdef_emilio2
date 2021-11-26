@@ -5,21 +5,33 @@ hide:
 
 # Tech Beyond the Myth
 
-![](../images/Imac_dis_1.jpg)
 
 ## The Almost Useful Machines
 
 Here you can check the video
+
 [![The Loner Booth](https://res.cloudinary.com/marcomontalbano/image/upload/v1637940652/video_to_markdown/images/youtube--wdrpc9YuWf8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wdrpc9YuWf8&t=23s "The Loner Booth")
 
-### The Loner Booth
-The Lober Booth concept was created during the process of knowing the parts of tech that we have at hand and to recognizing their potential.
-We stating talking about our feeling in the moment and crating a general concept that was around loneliness and hapiness.
+### The Loner Booth presentation
 
-After that the most difficul part, in my opinion was to understand the logical part of the code ir order to make the machine work and undertanding what extra components were needed.
+[Presentation](https://docs.google.com/presentation/d/1R_QlpASGupockWAJxV_IFKaKJ-OMxydYArBRfEmzGw0/edit)
 
 
+### The Loner Booth reflections
 
+The Loner Booth concept was created during the process of knowing the parts of tech that we have at hand and to recognizing their potential.
+We stating talking about our feeling in the moment and creating a general concept that was around loneliness and happiness.
+
+After that the most difficult part, in my opinion was to understand the logical part of the code in order to make the machine work and understanding what extra components were needed.
+For me a difficult task at the moment has been understanding the logical process for coding and the language used for Arduino. Until know I have not previous experience using this component but is a skill I want to develop in my time at IAAC.
+
+Another reflection was to see the esthetics and the function of having a “case” for the circuits that power the machine, manufactured from cardboard allowing us to made them in the moment and with the flexibility to add or remove circuits, boards and intervene the circuit for repair it. That is an example how appliances or other tech devices could be designed and manufactured under a different paradigm as the actual linear and mass production one.
+
+
+
+
+
+![](../images/Imac_dis_1.jpg)
 
 ## iMac Destructor
 
