@@ -7,6 +7,20 @@ hide:
 
 ![](../images/Imac_dis_1.jpg)
 
+## The Almost Useful Machines
+
+Here you can check the video
+[![The Loner Booth](https://res.cloudinary.com/marcomontalbano/image/upload/v1637940652/video_to_markdown/images/youtube--wdrpc9YuWf8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wdrpc9YuWf8&t=23s "The Loner Booth")
+
+### The Loner Booth
+The Lober Booth concept was created during the process of knowing the parts of tech that we have at hand and to recognizing their potential.
+We stating talking about our feeling in the moment and crating a general concept that was around loneliness and hapiness.
+
+After that the most difficul part, in my opinion was to understand the logical part of the code ir order to make the machine work and undertanding what extra components were needed.
+
+
+
+
 ## iMac Destructor
 
 Visit the link for the report
