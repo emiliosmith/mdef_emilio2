@@ -1,10 +1,10 @@
 ## This is not a homepage
 
 
-![](images/header_1.gif)
+![](images/hp_1-02.gif)
 
 bias-free space.
 
-In this webpage you will find the process developed for the MDEF, peace.
+Trust the process
 
 E.
