@@ -1,7 +1,4 @@
-## This is not a homepage
-
-
-![](images/hp_1-02.gif)
+## ![](images/hp_1-02.gif)
 
 bias-free space.
 
