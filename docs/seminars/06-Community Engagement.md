@@ -16,6 +16,9 @@ So far I have been mapping the possible design interventions by mapping certain 
 ![](../images/CE_1.jpg)
 ![](../images/CE_2.jpg)
 
+
+## Companion compost
+
 After this reflection during the seminar Rei and I, decided to work together in a collective intervention with the compost for many reasons; It is a subject in which Rei has a previous research experience from her Bachelor's and we recognized that we can work with it from different design postures as well to seek a behavioral change and opening the discussion to identify more complex topics and systems.
 
 For framing a  behavioral design intervention, we are looking for important resources, so far we have explored the work of Susan Michie and BJ Fogg, which from we used his diagram to plan our design intervention; Lately, Otto Scharmer's Theory U seems like a good framework for the compost making activity, since it is a physical activity that make people get in contact with and reflect on their organic waste, about their way of consume and shift the perception from  waste to organic inputs or nutrients for the compost (which later we call the compost a companion specie), we try to design from the individual to the collective, so the next design interventions we think that should be oriented to co create a network or community through empowering each person to make their own compost as part .
