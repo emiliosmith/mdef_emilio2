@@ -9,13 +9,15 @@ hide:
 
 
 
-
+## Design politics
 At the beginning of this seminar it seemed to me that I had everything planned and figured it out, but as the days progressed I discovered things that at some point I had left aside.
 For me, this seminar is the central part of the design studio and it helped me a lot to reformulate several times the approach of the project, which is in a constant evolution.
 
 At first, my objective was to work on design politics, since I consider it a powerful practice to shape our future from another perspective and it is often neglected in design or seen as a taboo; what I was leaving aside is the lack of structure to frame this practice in a transformative collective activity, as I was planning the intervention of the design from my ego and not from the echo, the design works with the others.
 So far I have been mapping the possible design interventions by mapping certain actors in the system.
-* politcis miro layout map
+
+![](../images/CE_1.jpg)
+![](../images/CE_2.jpg)
 
 After this reflection during the seminar Rei and I, decided to work together in a collective intervention with the compost for many reasons; It is a subject in which Rei has a previous research experience from her Bachelor's and we recognized that we can work with it from different design postures as well to seek a behavioral change and opening the discussion to identify more complex topics and systems.
 
