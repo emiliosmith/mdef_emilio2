@@ -3,10 +3,13 @@ hide:
     - toc
 ---
 
-# FabAcademy
+# Week 1 FabAcademy
 
 
 Week 1 - Principles and practices, project management
+
+
+
 --Update your webpage with: A new section for FabAcademy, a post/page for each topic and a post/page for each Challenge
 --Send a profile picture from you or anything represents yourself
 --Browse through the fabacademy web pages of last year MDEF students, select 3 examples of documentation (from weekly tasks) that you find most interesting. Explain why and try to identify the key points.
