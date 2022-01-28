@@ -1,7 +1,5 @@
-## ![](images/hp_1-02.gif)
+## ![](images/front_2.jpg)
 
 bias-free space.
-
-Trust the process
 
 E.
