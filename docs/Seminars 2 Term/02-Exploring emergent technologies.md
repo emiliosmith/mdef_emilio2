@@ -26,3 +26,6 @@ Coffee waste, gathered from Elisava coffee shop (about 8kilos)
 Samples
 ![](../images/remix_5.jpg)
 fail mold
+
+####Materials in cotext worksheet
+[Materials in context doc](https://docs.google.com/document/d/1tvaRWxEboLcG47VOC2J04JcSnIWW-2Qityx_a1aBmUg/edit?usp=sharing)
