@@ -18,5 +18,11 @@ If our intent is to design or to create a solution for these crisis through a pr
 For my background I found interesting to explore the coffee “waste”, because I came from a small town in México, that its main activity is tourism, therefore there are a lot of cafeterias and restaurants, as well as in Barcelona. With this context I would like to explore the production of “tools” from the coffee waste, and so far I have been using the recipe with Pine resin and Carnauba.
 
 ![](../images/remix_1.jpg)
+3D model for a mold
 ![](../images/remix_2.jpg)
+Coffee waste, gathered from Elisava coffee shop (about 8kilos)
 ![](../images/remix_3.jpg)
+![](../images/remix_4.jpg)
+Samples
+![](../images/remix_5.jpg)
+fail mold
