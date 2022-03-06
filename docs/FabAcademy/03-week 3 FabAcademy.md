@@ -28,10 +28,15 @@ I started to design It in Rhinoceros, with the next steps:
 
 - First design the final volume desired and then plan the intersections.
 After that, in the intersections plan from the material thickness how it was going to lock. disclaimer, in the first try out for the bottom lock I didn’t consider the thickness of the overlapping material.
+
 ![](../images/fabw3_2.jpg)
+
 - The next step was to make the volume in 2D using the tool of “aplastar”---I will search the command in English)
+
 ![](../images/fabw3_1.jpg)
+
 - Lastly with the model in 2D I create the drawings and ad the kerfing pattern, after that the drawing was ready to laser cut.
+
 ![](../images/fabw3_3.jpg)
 
 
