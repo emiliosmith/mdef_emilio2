@@ -6,7 +6,7 @@ hide:
 # Week 3 FabAcademy
 
 
-##LASER CUT
+##Computer Controlled Cutting 
 
 This week was oriented to understand about the different process of subtractive process, basically laser cut.
 We understand the principles of the laser cut and how it is based by vectorial drawings, a format quite versatile in 2 and 3D software. Our intent was to understand the full potential of these machines and the basic information for operate them.
@@ -38,7 +38,7 @@ After that, in the intersections plan from the material thickness how it was goi
 - Lastly with the model in 2D I create the drawings and ad the kerfing pattern, after that the drawing was ready to laser cut.
 
 ![](../images/fabw3_3.jpg)
-
+*Kerf is used to call the material loss in the process but it is know for the different patterns used for allowing the different rigid material to bend, like cardboard, MDF and acrylic.  
 
 
 ###Final product
