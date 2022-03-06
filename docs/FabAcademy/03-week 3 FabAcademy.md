@@ -24,6 +24,8 @@ My project for these week was to cut a trach can bin for my house as a part of a
 
 ###Process
 I started to design It in Rhinoceros, with the next steps:
+
+
 - First design the final volume desired and then plan the intersections.
 After that, in the intersections plan from the material thickness how it was going to lock. disclaimer, in the first try out for the bottom lock I didn’t consider the thickness of the overlapping material.
 ![](../images/fabw3_2.jpg)
