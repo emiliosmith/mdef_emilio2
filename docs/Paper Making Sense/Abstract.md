@@ -10,8 +10,6 @@ There are many interpretations, from Western or Eastern civilizations, global no
 
 Design in the contemporary is an activity that is empowered by a variety of processes from the far technological to the far artistic specter, understanding that they are not mutually exclusive; is in that specter where design as practice nurture itself to have a bigger, broader, and deeper impact. Design is present in a process of shaping a stick with a rock for making a tool as well as designing a bridge in parametric software and 3D printing it with a machine.
 
-Design help us, help each individual to express him or herself, to express a task that he or she wants to accomplish for an individual purpose or as a part of a collective one, having in mind the use of all the possible tools to perform it
-Knowing
 
 ####Design is a reflection of the personal context
 
