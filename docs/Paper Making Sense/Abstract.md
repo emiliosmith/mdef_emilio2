@@ -1,6 +1,6 @@
 # Abstract Paper Making Sense and Meaning
 
-##Thinking locally
+## Design: What is it good for?
 
 Design could be perceived and eventually understand as an action performed by humans through the movements of their body parts ignited by a cognitive or creative process with the end of transforming or interacting with their context.
 
