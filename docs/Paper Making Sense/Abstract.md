@@ -13,8 +13,9 @@ Design in the contemporary is an activity that is empowered by a variety of proc
 
 ####Design is a reflection of the personal context
 
-The way that design is being used to shape the world, like many other activities, is a result of a personal vision, of an understanding of our context, the place that one has in the world and our community, and in the way that we use our soft skills and use our social network and privileges is the way we can have more or less influence in the transformation of our reality.
+The way that design is being used to shape the world, like many other activities, is a result of a personal vision, of an understanding of our context, the place that one has in the world and as a part of a community; is in the way that we use our soft skills, our social network and privileges is how we can have more or less influence in the transformation of our
+immediate reality.
 
-Understanding where we come from, what identifies us as a part of a community, shape our practice as designers, and is our labor to identify what we have to do, what it has to be done, and with whom to do it.
+Understanding where we come from, what identifies us as a part of a community, shape our practice as designers, and is our labor to identify what we have to do, what it has to be done, and with whom to do it or not to do it.
 
-It is a personal responsibility to confront our reality and understand our context and its needs to define our design practice, it is not mandatory to be an eco-designer o social-designer (or other buzz words-designer), but so far the social and environmental problems are well documented and even over-diagnosed, so now it is our duty to know that as a part of a community and to act to shape the world for everyone.
+It is a personal responsibility to confront our reality and understand our context and its needs, it is not mandatory to be an eco-designer o social-designer (or other buzz words-designer), but so far the social and environmental problems are well documented and even over-diagnosed, so now it is our duty to know that as a part of a community and to act to shape a world for everyone.
