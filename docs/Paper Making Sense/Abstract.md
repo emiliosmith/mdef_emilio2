@@ -1,4 +1,6 @@
-# About Emilio Smith
+# Abstract Paper Making Sense and Meaning
+
+##Acting locally 
 
 Design could be perceived and eventually understand as an action performed by humans through the movements of their body parts ignited by a cognitive or creative process with the end of transforming or interacting with their context.
 
@@ -11,7 +13,7 @@ Design in the contemporary is an activity that is empowered by a variety of proc
 Design help us, help each individual to express him or herself, to express a task that he or she wants to accomplish for an individual purpose or as a part of a collective one, having in mind the use of all the possible tools to perform it
 Knowing
 
-Design is a reflection of the personal context
+####Design is a reflection of the personal context
 
 The way that design is being used to shape the world, like many other activities, is a result of a personal vision, of an understanding of our context, the place that one has in the world and our community, and in the way that we use our soft skills and use our social network and privileges is the way we can have more or less influence in the transformation of our reality.
 
