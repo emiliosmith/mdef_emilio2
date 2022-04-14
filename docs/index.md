@@ -1,2 +1,2 @@
 
-![](images/offering.gif)
+![](images/offering_2.gif)

@@ -3,12 +3,12 @@
 #One with the context
 
 
-![](../images/vignette_1_webEmilio.jpg)
+![](../images/vignette_2_webEmilio.jpg)
 
 
 ###Reflections about beliefs and knowledge about what design means for me.
 
-Design as I perceived it, under a system of mine believes, a result of my experience since college to my professional practice, with knowledge I have found or collected in these years. 
+Design as I perceived it, under a system of mine believes, a result of my experience since college to my professional practice, with knowledge I have found or collected in these years.
 
 I observed the design from my local context understanding that it exists an ontic reality, which is not necessarily what it is true but is there; this vision has been expanded and at the same time narrowed in my brief journey in the MDEF
 
