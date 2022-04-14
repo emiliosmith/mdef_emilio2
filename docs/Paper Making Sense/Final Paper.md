@@ -6,7 +6,7 @@
 ![](../images/vignette_2_webEmilio.jpg)
 
 
-### Beliefs and knowledge about what design means for me.
+### Beliefs and knowledge about what design means to me.
 
 Design as I perceived it, under a system of mine believes, a result of my experience since college to my professional practice, with knowledge I have found or collected in these years.
 
