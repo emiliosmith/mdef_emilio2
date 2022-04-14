@@ -1,4 +1,5 @@
-## ![](images/offering.gif)
+
+![](images/offering.gif)
 
 
 bias-free space.
