@@ -6,13 +6,15 @@
 ![](../images/vignette_2_webEmilio.jpg)
 
 
-###Reflections about beliefs and knowledge about what design means for me.
+### Beliefs and knowledge about what design means for me.
 
 Design as I perceived it, under a system of mine believes, a result of my experience since college to my professional practice, with knowledge I have found or collected in these years.
 
 I observed the design from my local context understanding that it exists an ontic reality, which is not necessarily what it is true but is there; this vision has been expanded and at the same time narrowed in my brief journey in the MDEF
 
 This reflection practice, represent for myself and exercise to have an understanding of the plausible in design in my context, for finding a truth by contrasting my beliefs and knowledge of what, I now understand that, I didn’t was aware of. It is not my intention to have an ultimate truth or dictate any kind of practice.
+
+
  This exercise is more an intention to create an objective truth as possible could be, identifying the possible bias inherited in me by my context and my journey through my lifetime and hopefully this practice could work as a reference for anyone else.
 
 How much of what we believe is actually true? What we believe is right? This questions have to be a constant in our head, it has to be present in any creative process therefore in design practice.
@@ -62,12 +64,13 @@ In a current scenario, how many things have been created? how many resources hav
 
 Design has to be “egoless”, we don’t have to put our image our personal brand or our company brand in order no feel relevant in the history. That has to be the less important for shift to other paradigms.
 
-The mindset of the permanence of the ego is a heritage from the Eurocentrism canons, which led to an aspirational aesthetic, this is reproduced in Latin-American as well as in other part of the world, and mainly I can perceive it in México in my local context inside design practice from my experience. In indigenous communities different craftsmanship activities are often seen as a collective effort for communicate their cosmovision and satisfy their self-consumption accordingly with what they have in their environment.
+The mindset of the permanence of the ego respond to the canons of authorship present in the private property for exploitation. In contrast, for many years, different craftsmanship from indigenous communities are often seen as a collective effort for communicate their cosmovision and satisfy their self-consumption accordingly with what they have in their environment. The images, meanings, drawings, materials and patterns are part of their identity and the environment, and define them as a collective.
 
 Globalization, a symptom of capitalism is used for designers as a curtain to homologize our design all around the world, we used as a pretext conscious or unconsciously because we want to be part of a global esthetics, a part of global movement and to be recognized globally, as an example Fast Fashion.
-In a design practice this led us to decontextualize our design using materials, process that eventually are going to led to an artifact that doesn’t belong to its local the ecosystem.
 
-There are many examples of a positive practice that talks about using the hyperlocal to create anything from textiles to social innovations; In México there are exceptional projects in which through the craftsmanship from indigenous groups, artifacts are created under new paradigms. They required tremendous energy to keep using ancient techniques and create new social interactions around the project.
+In a design practice this led us to decontextualize our design using materials, process that eventually are going to create an artifact that doesn’t belong to its local ecosystem and with an aspirational aesthetic, to be globally accepted.
+
+There are many examples of a positive practice that talks about using the hyperlocal resources to create anything from textiles to social innovations. In México there are exceptional projects in which through the craftsmanship from indigenous groups, artifacts are created under new paradigms. They required tremendous energy to keep using ancient techniques and create new social interactions around the project.
 
 A project I enjoy is Fábrica Social (https://fabricasocial.mx/) which works with indigenous women from the south of México for creating garments that reflect their culture honoring their cosmovision, this project is a fusion between designers and people from an horizontal and participatory perspective.
 
@@ -77,12 +80,14 @@ I have read many times the use of the word “vernacular” for describing simil
 
 Projects that part from the local are around the world with good and bad practices as well, but are the less if we comparing with all the needs we have under the capitalism paradigm ways of living, and it doesn’t cover our all specter of necessities and must of them are created inside of the capitalism system in which the rules of the free market are still an ultimate decisive factors, like price and placement. Having that in mind there lays an opportunity to co-design, to co-create another system that allow us to change drastically for a better life, in which humans as are important as any other living organism, and that is design with the eco.
 
-One alternative of this system is the Sitopia, a concept derivate from the utopia (Carolyn Steel), which put the food in the center allowing to shape our relationship between each other as a part of an ecosystem, another concept is “El buen vivir” used for different indigenous cultures around Latin America and a concept used by the EZLN in which is stated that humans and their ecosystem are conceived as a sole being structured by the cosmovision of each community; this concept has been present from thousands of years in indigenous cultures but now is presented as a “radical” counterpart to capitalism
-As a professional practice, we as designer tend to think as part of a capitalism paradigm that progress and growth mean “nicer stuff” that eventually we are going to design. but rejecting that is a political action, a statement of design, which is not in favor of over exploitation and over consumption, design has to be formed physically by what we have at hand, if we need a chair, we must have the ability to modify what we already have or what it exists.
+One alternative of this system is the Sitopia, a concept derivate from the utopia (Carolyn Steel), which put the food in the center allowing to shape our relationship between each other as a part of an ecosystem, another concept is “El buen vivir” used for different indigenous cultures around Latin America and a concept used by the EZLN in which is stated that humans and their ecosystem are conceived as a sole being, structured by the cosmovision of each community; this concept has been present from thousands of years in indigenous cultures but now is presented as a “radical” counterpart to capitalism.
 
-Strategies like the ones from circular design aided by spaces like the Fab Labs, could be efficient if thing are designed for that systems, it doesn’t make sense to design “stuff” that are going to be mass produced that doesn’t take in consideration the local context.
 
-True breakthrough often comes from collaboration, for adding diversity in the process, the diversity comes from working with other people, as well the diversity of tools and technologies that are available in their context.
+As a professional practice, we as designer tend to think as part of a capitalism paradigm, in which  progress and growth mean “nicer stuff” that eventually we are going to design.
+
+How we decided to approach this paradigm in a personal or collectively is a political action, a statement of design, which could be not in favor of over exploitation and over consumption; Design in many ways could be performed physically by what we have at hand; due to that, it makes sense to have the ability to modify what we already have or what it exists.
+
+Strategies like the ones from circular design aided by spaces like the Fab Labs, are an efficient infrastructure for an alternative ways of improve the local context with which is available. Is common to have breakthroughs from collaboration, for adding diversity in the process and thinking as a part of a system, the diversity comes from working with other people, as well the diversity of tools and technologies that are available in their context.
 
 
 ## Design is a reflection of the personal context
