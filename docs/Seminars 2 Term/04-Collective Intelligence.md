@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-#Collective Intelligence
+# Collective Intelligence
 
 
 This seminar was quite challenging for me, because of my lack of knowledge in the area, and that let me to open the discussion of the word “collective”. In a way, could the high tech terms or practices alienate the gross part of the population?
