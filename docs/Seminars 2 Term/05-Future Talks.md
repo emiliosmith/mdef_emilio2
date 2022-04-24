@@ -86,3 +86,44 @@ In his process we can appreciate the value of reflecting in each step and try to
 Finally, we could appreciate how a studio focus in this process could work and what relationships have to be formed for function without compromising the creative process or the vision of the exploration.
 
 ![](../images/futureTalk_2.jpg)
+
+
+## Ron Wakkary
+### Design with other and constituency in design.
+
+In this talk we have the opportunity to listen to Ron Wakkary and to explore how the role of the designer is expanded to it context, to affect every being. For these is needed the understanding of the different tools, approaches and experience in order to have a design respond for the emergent future.
+
+The “design with” is the actions of designing things for not only for humans, we have to understand where our intervention is going to be situated in which context, and that we are going to co-habit this context with it and others biological being that eventually are going to participate in the process or in the life span.
+
+
+The concept of biography that Ron uses, means that how our role as designers leave a trace and build interconnections between us, the design and the ecosystem or context; thinking in those terms allow or practice to be situated inside a richer world, full of entities for co-design with.
+
+
+At the same time, the biography of an artifact or of us, as designers, brings to the light the accountability of what is going to exist in the material world, co-habiting in ecosystem with other species. For example, the biography of the plastic bag tells us the history of how from a basic need for comfort pushed in the past, nowadays is shaping our world, co-habiting with us many, many years later after it main purpose was fulfill.
+
+
+Ron explain the concept of “design with” as a gathering, in which the process began as biography of the central concept or idea which at the moment of be materialized it will gather other being that exist in any given context; if we understand this moment as a gathering, we can broad our practice to a co-design or design with this others beings, co-designing and forming a sustainable relationship; be tuned with the surroundings.
+
+
+Ron launch a series of questions to think around our projects
+“think of your project as a biography, what humans and nonhumans does It gather?”
+“Of those that gather, which one joined later or were not planned to be part of the biography at first?”
+
+
+With this mind, our companion compost, gather different biological species, from flies, to insects, and eventually if it used for growing food it could gather animals as seagulls, which in Barcelona are well known for picking anything to eat and of course rats; there is many information about how different biological species gather around the compost.
+
+One statement that can illustrate he co-design process that Ron used, was that we don’t need to make nature better, nature by itself is perfect, therefore, we have to design for co-habit, in a way that our relationship would be in perfect harmony with the ecosystem.
+
+
+To define the constituency as designers, we have to understand that the concept refers to the agency created in our interventions. The politics that surround our biographies or the biographies of our things that we design.
+
+
+The constituency gathers all the actors and participants that going to co-design with us, human and non-human; this momentum allows that many biographies assembly themselves to create an interconnectedness and it is discussed the political agreements, designing in that moment the future impact in said interconnection and creating new interconnections.
+
+
+Other questions where launched, from this Ron asked us:
+What is the constituency that your biography is part of?
+What does it include and what is your role as the speaking subject a part of the constituency?
+
+
+Reflecting in the question I must said that the constituency in a regeneration project as working with the food waste for creating the conditions for growing more, is a moment that gather an environmental conditions that have been present in any natural system but is mainly driven by the will of the people involved because it is necessary start in a conscious way that circular systems have to be created and the concept of waste, it doesn’t exist in nature; everything is a nutrient for other being.
