@@ -5,10 +5,10 @@ hide:
 #Design Ethics
 
 
-##Perspectives for regenerative practices from a community compost.
+##Perspectives of regenerative practices in a community compost.
 
-###Compost commune
-Compost commune is a project that born form different concepts and perspectives. We tried to developed a practice around the compost making, in order to empower a regenerative activity that allowed people to have a healthy soil for growing their own food from their organic waste.
+###Companion Compost
+Companion Compost is a project that born form different concepts and perspectives. We tried to developed a practice around the compost making, in order to empower a regenerative activity that allowed people to have a healthy soil for growing their own food from their organic waste.
 
 
 A constant concept around the development of the design process was to create new habits and change behaviors in people around the organic waste. The first approaches to this was to create a recipient for the organic waste aiming to create a symbiosis relationship in which we try to explore and make explicit the moral agenda about the personal organic waste a how important is to process it correctly in a circular approach.
