@@ -7,13 +7,13 @@ hide:
 
 ##Perspectives of regenerative practices in a community compost.
 
-###Companion Compost
-Companion Compost is a project that born form different concepts and perspectives. We tried to developed a practice around the compost making, in order to empower a regenerative activity that allowed people to have a healthy soil for growing their own food from their organic waste.
+###Compost Commune
+Compost Commune is a project that born form different concepts and perspectives. We tried to developed a practice around the compost making, in order to empower a regenerative activity that allowed people to have a healthy soil for growing their own food from their organic waste.
 
 
 A constant concept around the development of the design process was to create new habits and change behaviors in people around the organic waste. The first approaches to this was to create a recipient for the organic waste aiming to create a symbiosis relationship in which we try to explore and make explicit the moral agenda about the personal organic waste a how important is to process it correctly in a circular approach.
 
-
+### Companion Compost
 This first approach was conducted in first instance for people as individuals in their own personal space or household. At this point we sought an open discussion and critique about the personal habits around the organic waste; by a brief analysis of it we intent to create consciousness about different environmental problems and use that as a drive or motivation for the change in the behavior. In the other hand for the container we encourage the users to create an identity and personalization of the container in order to create a bound in which two species have to cooperate for the sustainment.
 
 
