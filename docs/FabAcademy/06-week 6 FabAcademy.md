@@ -37,3 +37,7 @@ After this sketch I use KiCad to have a proper distribution of the components an
 ![](../images/W6_3.jpg)
 
 ![](../images/W6_4.jpg)
+
+![](../images/W6_5.jpg)
+
+![](../images/W6_6.jpg)
