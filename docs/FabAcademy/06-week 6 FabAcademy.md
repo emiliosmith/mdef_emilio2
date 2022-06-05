@@ -17,10 +17,10 @@ Our first intention was to develop a circuit using a photoresistor. The initial 
 
 The function of this circuit was about using a photoresistor as a way to tur on a small motor in order to move the artifact. When the user throws some light to the photoresistor, it will saturate and when it passes the threshold it will turn on a light and turn on an engine.
 
-![](../images/W6_7.jpg)
 
 ![](../images/W6_9.gif)
 
+![](../images/W6_8.gif)
 
 
 
@@ -28,7 +28,8 @@ With the help of Jeremy Paradie, we manage to configure the threshold of the pho
 
 ![](../images/W6_2.jpg)
 
-![](../images/W6_8.gif)
+![](../images/W6_7.jpg)
+
 
 
 After this sketch I use KiCad to have a proper distribution of the components and eventually have the footprint for milling the PCB. This project was ideated with Fiorella Jaramillo.
