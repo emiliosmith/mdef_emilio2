@@ -24,3 +24,6 @@ We performed an exercise of soldering different tiny components in a PCB, we hav
 We learn how to solder, the techniques for cleaning or removing the component of the excess of it.
 
 ![](../images/fabw4_1.jpg)
+
+We can see as well different task in the Challenge III and the Week assigment 10- 13.
+Link
