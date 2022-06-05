@@ -44,6 +44,6 @@ After all of it is done, the places for the screws have to be defined by the opt
 
 ![](../images/W7_9.jpg)
 
-![](../images/W7_3.gif)
+![](../images/W7_4.gif)
 
 ![](../images/W7_3.gif)
