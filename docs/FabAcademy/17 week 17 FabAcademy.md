@@ -4,7 +4,7 @@ hide:
 ---
 
 # Week 17 FabAcademy
-Applications and implications
+## Applications and implications
 
 Propose a final project masterpiece that integrates the range of units covered,
    answering:
@@ -18,7 +18,3 @@ Propose a final project masterpiece that integrates the range of units covered,
       What processes will be used?
       What questions need to be answered?
       How will it be evaluated?
-
-
-
-![](../images/fabw5_2.jpg)
