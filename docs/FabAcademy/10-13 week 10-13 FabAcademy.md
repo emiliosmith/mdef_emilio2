@@ -42,25 +42,25 @@ Pictures of the LiPo
 
 From this device I design the KiCad diagram in order to have a PCB and mount the ESP, have the connection with the sensor and the LiPo battery and to have it in an accessible case.
 
-![](../images/W10_6.JPG)
+![](../images/W10_6.jpg)
 
-![](../images/W10_7.JPG)
+![](../images/W10_7.jpg)
 
 After the Footprint ready, I design some branding as part of the project Compost Commune and to generate the PNG files needed for milling the PCB. The files needed to be prepared by outline, traces and holes all in PNG black and white with the same size and resolution (1000ppi).
 
 I am used to work in AI so I manage to work with the SVG format and have it one place in an different space to divide between outlines, traces and holes. AI allows you to export in PNG each artwork in any resolution.
 
 
-![](../images/W10_5.JPG)
+![](../images/W10_5.jpg)
 
 When the files are ready in PNG, as part of the Week 4, they were used for milling the PCB in the SRM Roland. For using this milling machine I have to use the modsproject.org page for access to the programs and generate the. rml files required.
 For this modules, we have to choose the correct SRM module and select between the 1/64 or 1/32 tool depending if it is a trace or a hole or outline. The speed, and the origin has to be defined as well. [Link to modsproject](http://modsproject.org/)
 
-![](../images/W10_8.JPG)
+![](../images/W10_8.jpg)
 
-![](../images/W10_9.JPG)
+![](../images/W10_9.jpg)
 
-![](../images/W10_10.JPG)
+![](../images/W10_10.jpg)
 
 
 
@@ -82,16 +82,12 @@ After everything is situated we can start to mill.
 
 After the PCB is ready we solder the components, in this case we only use male and female connector for the ESP and the sensor. The LiPo battery is connected directly to the ESP via port.
 
-![](../images/W10_15.JPG)
+![](../images/W10_16.jpg)
 
-![](../images/W10_16.JPG)
-
-![](../images/W10_2.JPG)
+![](../images/W10_15.jpg)
 
 
 
 When the components are soldered, I design a case in Rhino, with the final size of the components, and taking into account that in could be accessible for charging and replacing the sensor. The case was 3D printed in white PLA and the lid was laser cut in acrylic.
-Final pictures.
 
-
-[Link to modsproject](http://modsproject.org/)
+![](../images/W10_17.jpg)
