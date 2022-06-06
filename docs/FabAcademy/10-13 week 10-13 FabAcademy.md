@@ -69,8 +69,6 @@ After the .rml files are ready, they are charged in the interface of the milling
 ![](../images/W10_11.JPG)
 
 
-
-
 Note, for the outline we have to be very careful of not doing it to close to the traces or to the exterior or the PCB, as well we have to take care of the size and the color depending in which image processor you use.
 
 After everything is situated we can start to mill.
