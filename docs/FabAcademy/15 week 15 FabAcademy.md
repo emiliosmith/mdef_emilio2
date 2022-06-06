@@ -19,9 +19,19 @@ We use this HMTL to place a friendly branding that we have been using in differe
 
 We try to use this interface to have more information about what it is displayed. We use this HMTL to have the lecture of the sensor in a percentage but for a common user without much training in compost making a number doesn’t say much, so we add extra information and instructions of what to do if the humidity reach some value or other value, in order to empower and motivate the user to handle the compost and be involved with it.
 
+![](../images/W10_3.jpg)
 
-Various
+![](../images/W15_1.jpg)
+
+![](../images/W15_3.jpg)
+
+![](../images/W15_2.jpg)
+
+
+### P5 Interface
+
 After this task we explore different friendly interfaces with the P5 but it was very complicated to have it display the P5 via a ESP Web Server in the HTML.
+
 The lecture from the sensor was capture by the code of the P5 by enabling the that we have was trough the P5 serial port controller.
 [Tutorial](https://hackmd.io/9ha1FspPTlihjdzS5vsYYg?view)
 
