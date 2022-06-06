@@ -19,7 +19,7 @@ We use this HMTL to place a friendly branding that we have been using in differe
 
 We try to use this interface to have more information about what it is displayed. We use this HMTL to have the lecture of the sensor in a percentage but for a common user without much training in compost making a number doesn’t say much, so we add extra information and instructions of what to do if the humidity reach some value or other value, in order to empower and motivate the user to handle the compost and be involved with it.
 
-![](../images/W10_3.jpg)
+![](../images/W10_3.JPG)
 
 ![](../images/W15_1.jpg)
 
