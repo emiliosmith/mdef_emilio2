@@ -25,5 +25,4 @@ We learn how to solder, the techniques for cleaning or removing the component of
 
 ![](../images/fabw4_1.jpg)
 
-We can see as well different task in the Challenge III and the Week assigment 10- 13.
-Link
+We can see as well different task in the  [MicroChallenge III](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/Micro%20Challenge%20III/) and the  [Week assigment 10- 13](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/10-13%20week%2010-13%20FabAcademy/).
