@@ -5,10 +5,13 @@ hide:
 
 # Week 10-13 FabAcademy
 
+##  Inputs and Outputs
 
-##  In these week we saw a review of the different components available or commonly used and their characteristics in order to know what we can use, their potential and how we can add value to our project.
-In the case of the project of Compost Commune, we use the Micro Challenge to design a sensor for humidity because in the research of the project we found that maintain certain temperature and humidity in the compost is essential for its production.
-With that I mind we start to explore the different sensors available for the soil and their applications with Arduino in order to find something that could be efficient and friendly for any user.
+In these week we saw a review of the different components available or commonly used and their characteristics in order to know what we can use, their potential and how we can add value to our project.
+
+In the case of the project of Compost Commune, we use the [MicroChallenge III](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/Micro%20Challenge%20III/) to design a sensor for humidity because in the research of the project we found that maintain certain temperature and humidity in the compost is essential for its production.
+
+With that in mind we start to explore the different sensors available for the soil and their applications with Arduino in order to find something that could be efficient and friendly for any user.
 As first step we choose different sensor and test them with different types of soil and we try to understand the values that appear in the serial monitor and understand it logic. We try different sensors and we find that is common to have low quality sensors with bad readings; as well that it is common to used incorrectly by not choosing the right voltage pin or declaring an analog or digital pin depending the type of sensor.
 After defining the correct use of the sensor we program the ESP to take the reading and transform it a percentage of humidity.
 The first challenge was to understand the lecture, because this kind of sensor measure the amount of current that travel between its nods; that means when the sensor has the most currents is when it is fully wet, when it has the lowest reading is when the soil is totally dry and the current doesn’t travel easily.  
