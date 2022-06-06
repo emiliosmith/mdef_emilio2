@@ -66,7 +66,7 @@ For this modules, we have to choose the correct SRM module and select between th
 
 After the .rml files are ready, they are charged in the interface of the milling machine. The first step is to choose the correct tool for the traces or the outline, then define and select the XY origin depending where the PCB is situated, and then the Z, which is more complex.
 
-![](../images/W10_11.JPG)
+![](../images/W10_11.jpg)
 
 
 Note, for the outline we have to be very careful of not doing it to close to the traces or to the exterior or the PCB, as well we have to take care of the size and the color depending in which image processor you use.
@@ -74,9 +74,9 @@ Note, for the outline we have to be very careful of not doing it to close to the
 After everything is situated we can start to mill.
 [The tutorial page is this one](https://fabacademy.org/2019/docs/FabAcademy-Tutorials/week04_electronic_production/srm20_windows.html)
 
-![](../images/W10_12.JPG)
+![](../images/W10_12.jpg)
 
-![](../images/W10_13.JPG)
+![](../images/W10_13.jpg)
 
 ![](../images/W10_14.gif)
 
