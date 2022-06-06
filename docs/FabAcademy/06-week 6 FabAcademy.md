@@ -24,7 +24,7 @@ The function of this circuit was about using a photoresistor as a way to tur on 
 
 
 
-With the help of Jeremy Paradie, we manage to configure the threshold of the photoresistor and have the correct Voltage for the motor.
+With the help of Jeremy Paradie, we manage to configure the threshold of the photoresistor and have the correct Voltage for the motor, define the circuit and the final code.
 
 ![](../images/W6_2.jpg)
 
