@@ -8,7 +8,7 @@ hide:
 ## Interface and application programming
 
 
-In the weekly assignment as I explained in the Week 14; we use the Micro Challenge III to have a sensor reading in an IP by the connection of the ESP via Wi-Fi.
+In the weekly assignment as I explained in the [Week 14](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/14%20week%2014%20FabAcademy/); we use the Micro Challenge III to have a sensor reading in an IP by the connection of the ESP via Wi-Fi.
 The ESP creates a Web Server, allowing us to have a HTML interface to display the values of the sensor which was expressed in percentage.
 
 We use this HMTL to place a friendly branding that we have been using in different application during the project from the case, manual, color, etc.
