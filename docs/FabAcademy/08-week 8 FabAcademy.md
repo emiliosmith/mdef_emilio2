@@ -31,4 +31,6 @@ For the weekly challenge we program a ESP to have a lecture from a Humidity sens
 
 ![](../images/W8_4.jpg)
 
+![](../images/W8_5.gif)
+
 [Download the code from my repository](https://github.com/emiliosmith/Compost-Sensor-code.git).

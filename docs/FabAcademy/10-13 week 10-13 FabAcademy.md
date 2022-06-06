@@ -12,13 +12,30 @@ In these week we saw a review of the different components available or commonly 
 In the case of the project of Compost Commune, we use the [MicroChallenge III](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/Micro%20Challenge%20III/) to design a sensor for humidity because in the research of the project we found that maintain certain temperature and humidity in the compost is essential for its production.
 
 With that in mind we start to explore the different sensors available for the soil and their applications with Arduino in order to find something that could be efficient and friendly for any user.
+
 As first step we choose different sensor and test them with different types of soil and we try to understand the values that appear in the serial monitor and understand it logic. We try different sensors and we find that is common to have low quality sensors with bad readings; as well that it is common to used incorrectly by not choosing the right voltage pin or declaring an analog or digital pin depending the type of sensor.
 After defining the correct use of the sensor we program the ESP to take the reading and transform it a percentage of humidity.
+
 The first challenge was to understand the lecture, because this kind of sensor measure the amount of current that travel between its nods; that means when the sensor has the most currents is when it is fully wet, when it has the lowest reading is when the soil is totally dry and the current doesn’t travel easily.  
+
+
 From this we have transform in the code the value of the sensor to a percentage of humidity in order to have some valuable input for the user.
-The final concept was to have the reading of the sensor available on a IP address in order to be accessible to every member of the community garden. This point I will explain it in the Week 14.
+
+![](../images/W10_1.JPG)
+
+The final concept was to have the reading of the sensor available on a IP address in order to be accessible to every member of the community garden. This point I will explain it in the [Week 14](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/14%20week%2014%20FabAcademy/).
+
+
+
 
 Pictures of the prototype
+
+![](../images/W10_2.JPG)
+
+![](../images/W10_3.JPG)
+
+![](../images/W10_4.JPG)
+
 Because we wanted that the device was autonomous and no to rely on a computer in order to be functional, Edu recommend us to use a Lipo battery.
 We choose a LiPo battery of 1000mAh of 3.7V, which was the voltage needed for maintain the sensor operational. The 1000 mAh so far, it has last for about 3 hours of having a constant lecture. And it is rechargeable with the laptop trough the connection of the ESP.
 Pictures of the LiPo
