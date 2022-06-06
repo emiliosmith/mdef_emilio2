@@ -3,7 +3,9 @@ hide:
     - toc
 ---
 
-# Week 18FabAcademy
+# Week 18 FabAcademy
+
+
 ## Invention, intellectual property and income
 
 During this class we have a discussion with Oscar and Victor about the different implications around a project such as Smart Citizen. We discuss about the perspective of creating value to the user using the infrastructure created with Smart Citizen in particular the use of Intellectual Property.
