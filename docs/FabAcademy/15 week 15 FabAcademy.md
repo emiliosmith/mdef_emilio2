@@ -38,6 +38,7 @@ After this task we explore different friendly interfaces with the P5 but it was 
 The lecture from the sensor was capture by the code of the P5 by enabling the that we have was trough the P5 serial port controller.
 [Tutorial](https://hackmd.io/9ha1FspPTlihjdzS5vsYYg?view)
 
+![](../images/W15_7.jpg)
 
 ![](../images/W15_5.jpg)
 
