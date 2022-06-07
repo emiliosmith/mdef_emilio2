@@ -4,7 +4,7 @@ hide:
 ---
 
 # Micro Challenge  IV FabAcademy
-link to repository
+link to my repository
 (https://github.com/emiliosmith/MicrochallengeIV.git)
 
 ===============
