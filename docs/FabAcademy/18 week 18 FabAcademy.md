@@ -14,4 +14,7 @@ We made an exercise to imagine an alternative to generate income in a innovative
 
 At the end our proposal ought to use the way Smart Citizen gather data in favor to enterprises or companies in order to use to search spaces to avoid environmental regulations.
 
-Link to presentation
+[Link to presentation](https://docs.google.com/presentation/d/1E0fIrCtDiWVPtm7sNuhL814C_X-xlmCWKe7pEooOfdY/edit?usp=sharing)
+
+
+![](../images/W18_1.jpg)
