@@ -22,11 +22,12 @@ From an ethical perspective we sought to have a tool that empower all the member
 We began the exploration to have a autonomous circuit powered by the sun. For the composter, the initial idea was to have a sensor that could function all the time, and sent the information to the member in a regular basis or too have a repository if the information in real time.
 
 We have as inspiration the Smart Citizen project as well as the (Grow Observatory)[https://growobservatory.org/data/]. From this, we started to use a capacitive humidity sensor with an analog output to use it with the ESP32.
+
 The first step was to understand how it works and the measures that are presented in the serial monitor. I choose to have a numerical output rather than the graph to understand better the information.
 
 As all analog sensors, this one send the information from 0 to 4095, measuring the conductivity from one diode to the other, that means when the soil is wet or completely soak, the conductivity is high and when the soil is completely dry, the conductivity is almost cero.
 
-I tested the sensor with different types of soil and I tried to set a standard for the compost soil; with Santi we started to work with a tutorial, which I explain more in the week 14, in which the ESP could function as a WebServer; with that application I can send the lecture of the sensor via Wi-Fi to an IP.
+I tested the sensor with different types of soil and I tried to set a standard for the compost soil; with Santi we started to work with a tutorial, which I explain more in the  (Week 14)[https://emiliosmith.github.io/mdef_emilio2/FabAcademy/14%20week%2014%20FabAcademy/], in which the ESP could function as a WebServer; with that application I can send the lecture of the sensor via Wi-Fi to an IP.
 
 In the code I have to transformed the information from the raw values of the sensor to percentage, in that way it could be easier for the people to understand the humidity of the sensor.
 
@@ -38,7 +39,14 @@ Edu helped me in defining the best battery for the final product, I design a PCB
 
 When the circuit is done with the PCB and the LiPo battery, I design a case and print it, having in mind that it has to have an easy access to the ESP to charge the LiPo battery.
 
-final images
+#### Final Images
+
+
+![](/images/w_3.jpg)
+
+![](/images/w_4.jpg)
+
+![](/images/w_5.jpg)
 
 #### Pros and Cons
 
