@@ -9,9 +9,9 @@ hide:
 ## Exploration around food waste.
 We use this challenge to explore different approaches to the concept of our research. In this challenge we decided to have 3 main goals:
 
-- To offer a different to the user to the food waste (3D printed bread cookies).
-- To have artifacts that could strengthen our concept of a network of collaboration around food waste for creating compost (Compost cart).
-- To have some aid for our Design Dialogues exhibition (Exhibition aid).
+- To offer a different to the user to the food waste (*3D printed bread cookies*).
+- To have artifacts that could strengthen our concept of a network of collaboration around food waste for creating compost (*Compost cart*).
+- To have some aid for our Design Dialogues exhibition (*Exhibition aid*).
 
 
 ### 3D printes bread cookies
@@ -101,7 +101,6 @@ As part of our Design Dialogues exhibitions we wanted to show the different stak
 link to repository
 (https://github.com/terauchi-rei/fabchallange2.git)
 
-## Micro Challenge III
 
 *FabAcademy 1st Challenge Feb.15-18**
 ===============
