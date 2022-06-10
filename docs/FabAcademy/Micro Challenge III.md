@@ -38,13 +38,18 @@ Edu helped me in defining the best battery for the final product, I design a PCB
 
 When the circuit is done with the PCB and the LiPo battery, I design a case and print it, having in mind that it has to have an easy access to the ESP to charge the LiPo battery.
 
-easly to open to access  after this I design a case for enclosure the ESP   
+final images
 
+#### Pros and Cons
 
-
-
-
-
+I learn a lot of concepts with this project mostly in real life application, so I decided to have a pros and cons chart as reflection.
+- The battery is not enough to have the device operational from a long period of time. For using a LiPo battery, it is necessary to choose the right one for the device.
+- It can be programmed a Watchdog command for the device to turn on and off to take lectures, with this function the battery can last longer.
+- For the connection of a Wi-Fi, the ESP is configured to connect to the IAAC Wi-Fi,andd if it connected to another Wi-Fi you have to reconfigure it.
+- The sensor must of the time doesn´t work property, it has to function for a log period of time, or it is not going to have a proper lecture.
+- Must of the time, the sensor doesn't have a coherent measure and so far I don´t know why.
+- Many of the sensors don´t work property when they are connected to a 3v3 pin or 5v.
+- The ESP when it is connected to the Wi-Fi, it enable some pins.
 
 
 
