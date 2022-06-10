@@ -49,8 +49,7 @@ When the files are ready, in the machine you have to select the order in which t
 The assembly of the model was a task that Rei performed by her own.
 
 
-
-
+---- This is the team documentation----
 
 
 link to repository
