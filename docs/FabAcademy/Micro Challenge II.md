@@ -51,9 +51,9 @@ I use the grasshopper file that Edu share with us. Many thanks to Dafni and Edu.
 
 In this time we explore different shapes, layers, thickness, as well another material, like regular pasta, which at the end it didn't work well as material.
 
+![](../images/MC_2_92.jpg)
 
 
-![](../images/CM_2_6.gif)
 
 When the samples were ready, we put them in the oven to "cooked" them for changing their consistency and maybe have something edible again.
 
@@ -66,6 +66,9 @@ We use this samples and explorations to our Design Dialogues exhibitions of how 
 
 
 ![](../images/MC_2_91.gif)
+
+
+![](../images/CM_2_6.gif)
 
 ### Compost cart
 
