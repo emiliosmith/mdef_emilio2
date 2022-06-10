@@ -4,6 +4,52 @@ hide:
 ---
 
 # Micro Challenge  III FabAcademy
+
+### Personal reflection
+
+#### Context empowering by data
+
+This Micro Challenge had the goal to create some output from a ethical perspective; is from this starting point that we developed this project.
+
+From our last intervention at this point, we worked with a community garden in which we build with them a community compost bin, an artifact that is supposed to be used by all the members in the garden.
+
+At this point, whit the community we identify that not all members know about the benefits of the compost or how to make it, at the same time we learn more about the participatory process that they perform around any matter of the garden.
+
+From an ethical perspective we sought to have a tool that empower all the member of the community, so we decided that the best way to accomplish that was by disseminate all the information regarding the health of the compost, in that way everyone could know how the compost is doing and encourage discussions, actions and participation. Having from only one expert and one interested to many experts and many interested.
+
+#### Process
+
+We began the exploration to have a autonomous circuit powered by the sun. For the composter, the initial idea was to have a sensor that could function all the time, and sent the information to the member in a regular basis or too have a repository if the information in real time.
+
+We have as inspiration the Smart Citizen project as well as the (Grow Observatory)[https://growobservatory.org/data/]. From this, we started to use a capacitive humidity sensor with an analog output to use it with the ESP32.
+The first step was to understand how it works and the measures that are presented in the serial monitor. I choose to have a numerical output rather than the graph to understand better the information.
+
+As all analog sensors, this one send the information from 0 to 4095, measuring the conductivity from one diode to the other, that means when the soil is wet or completely soak, the conductivity is high and when the soil is completely dry, the conductivity is almost cero.
+
+I tested the sensor with different types of soil and I tried to set a standard for the compost soil; with Santi we started to work with a tutorial, which I explain more in the week 14, in which the ESP could function as a WebServer; with that application I can send the lecture of the sensor via Wi-Fi to an IP.
+
+In the code I have to transformed the information from the raw values of the sensor to percentage, in that way it could be easier for the people to understand the humidity of the sensor.
+
+When the ESP is connected to the Wi-Fi creates an IP, so everyone could access the measure of the humidity of the compost in any moment. So if connect my device to that IP I can have that information in any place.
+
+After we make the code works, with Mikel and Víctor. I try the prototype with a battery to have autonomy and to prove it in different places without be connected to the computer.
+
+Edu helped me in defining the best battery for the final product, I design a PCB for milling and mount the ESP with the battery and I weld the connector for the ESP and the sensor. I explain more of this in the week 10-13.
+
+When the circuit is done with the PCB and the LiPo battery, I design a case and print it, having in mind that it has to have an easy access to the ESP to charge the LiPo battery.
+
+easly to open to access  after this I design a case for enclosure the ESP   
+
+
+
+
+
+
+
+
+
+
+#### ---- The next post is the team documentation  ----
 link to repository
 (https://github.com/terauchi-rei/fabchallenge3.git)
 

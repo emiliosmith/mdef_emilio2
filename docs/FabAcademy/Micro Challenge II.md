@@ -33,6 +33,8 @@ The pasta 3D printer works a little bit different to the PLA one´s. For operate
 
 Note. If you use it, you have to consider the thickness of the pasta that you are using it and how it will deformed when it is deposited. when you have defined that, configure the height of the extruder between layers.
 
+I use the grasshopper file that Edu share with us. Many thanks to Dafni and Edu.
+
 In this time we explore different shapes, layers, thickness, as well another material, like regular pasta, which at the end it didn't work well as material.
 
 imagen
@@ -66,9 +68,9 @@ As part of our Design Dialogues exhibitions we wanted to show the different stak
 
 
 
-
-
 #### ---- The next post is the team documentation  ----
+
+
 # Micro Challenge  II FabAcademy
 link to repository
 (https://github.com/terauchi-rei/fabchallange2.git)
