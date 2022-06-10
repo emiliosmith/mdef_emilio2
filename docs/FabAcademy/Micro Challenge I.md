@@ -3,7 +3,56 @@ hide:
     - toc
 ---
 
-# Micro Challenge  1 FabAcademy
+# Micro Challenge  I FabAcademy
+## Personal reflection:
+
+We use this challenge to create artifact for explore our concept of the compost, of how it could be created indoors, in small or crowded places, and to try to understand how this activity could be performed in an urban context not only by farmer or gardeners.
+We wanted to everyone could performed that task as a daily basis.
+
+For this goal we sought to tackle the activity of making compost, a many of it misconception and to be part of a daily life.
+In order to that we design a compost bind from as a example of an open source design of a box.
+We want to include several characteristics such as:
+- Transparency in the Process.
+- As well light for the organic waste.
+- Ventilation.
+- Measure level of mass.
+- And a level of interactivness with the user.
+
+From this task we use acrylic for having something transparent for the user to see and I design it in order for not to use any kind of glue using a type of assembly using the standard thickness of the acrylic.
+
+This artifact was mainly based on the laser cut process because it is approachable for many users and the acrylic is very standardized in their thickness. So with that in mind it could be possible to have dxf or ai files of drawings to share.
+
+The next step will be to have a design in a parametric platform allowing any user to personalize their compost bin accordingly to their needs.
+
+### Process
+We start searching and sketching different ideas from opensource boxes and including our needs for the compost bin.
+
+![](../images/MC_1_1.jpg)
+
+From this sketches I start doing the 3D model in Rhinoceros to test the assembly and make a prototype and it is very easily to see how the joint could work.
+
+
+![](../images/MC_1_2.jpg)
+
+Rhinoceros allows the user to have a 2D drawing from a 3D model. So when I finished the 3D model and it was approved by Rei, I generate the final drawings for the laser cutter.
+
+![](../images/MC_1_3.jpg)
+
+This machine work with lines as well that images (in B/W for rasterize). So in order to produce something with it, the draw have to be done in a vectorial software like AutoCAD Illustrator, Inkscape or any 3D software that can handle 2D drawings (dxf, dwg, ai)
+
+![](../images/MC_1_4.jpg)
+
+![](../images/MC_1_5.jpg)
+
+When the files are ready, in the machine you have to select the order in which the machine is going to start cutting and configure the power, the speed and the frequency.
+
+The assembly of the model was a task that Rei performed by her own.
+
+
+
+
+
+
 link to repository
 (https://github.com/emiliosmith/FabAcademy-challenge.git)
 
