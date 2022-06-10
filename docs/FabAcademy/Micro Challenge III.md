@@ -7,7 +7,7 @@ hide:
 
 ### Personal reflection
 
-#### Context empowering by data
+#### Context: Empowering by data
 
 This Micro Challenge had the goal to create some output from a ethical perspective; is from this starting point that we developed this project.
 
