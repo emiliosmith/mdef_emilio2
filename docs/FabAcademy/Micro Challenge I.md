@@ -55,7 +55,9 @@ The assembly of the model was a task that Rei performed by her own.
 ![](../images/MC_1_8.jpg)
 
 
----- This is the team documentation----
+
+
+#### ---- The next one is the team documentation  ----
 
 
 link to repository

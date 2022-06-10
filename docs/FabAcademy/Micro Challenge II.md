@@ -2,7 +2,57 @@
 hide:
     - toc
 ---
+# Micro Challenge  II FabAcademy
 
+### Personal reflection
+
+## Exploration around food waste.
+We use this challenge to explore different approaches to the concept of our research. In this challenge we decided to have 3 main goals:
+- To offer a different to the user to the food waste (3D printed bread cookies).
+- To have artifacts that could strengthen our concept of a network of collaboration around food waste for creating compost (Compost cart).
+- To have some aid for our Design Dialogues exhibition (exhibition aid).
+
+
+### 3D printes bread cookies
+During our research around different organic waste producers, we identify similar organic waste between them; coffee, bread, some rice and pasta are the most common.
+
+With this in mind we wanted to offer to the user a different view of their organic waste, that at the end it is not waste, is organic matter that could be used, processed or transformed in different way, and still be useful. We can have organic waste for the compost or we can have new product from it. We can design and make tool from it or even print it for creating artifacts or just another type of snack.
+
+From this concept we approach to a cantina near IAAC, the Taverna Galega, in which we asked Juan for his organic waste; we took the bread and we use it for 3D print it to explore and understand its potential.
+
+First we have to define a recipe for the bread, because in order to use the machine, we have to have a "pasta" type of material. This "pasta" has to be with the right consistency to be extruded by the 3D printer.
+
+So Rei tried different proportions of water and salt, and adding that to the mixer with the bread.
+imagen
+
+For us to know that if the past would work, was to try it in a syringe (ass suggested by Edu).
+
+After this test and the recipe defined we start to making some test with the printer.
+
+The pasta 3D printer works a little bit different to the PLA one´s. For operate it, we was to define the path that the extruder is going to follow to generate the shape; this process we have to do it in grasshopper to create the gcode.
+
+Note. If you use it, you have to consider the thickness of the pasta that you are using it and how it will deformed when it is deposited. when you have defined that, configure the height of the extruder between layers.
+
+In this time we explore different shapes, layers, thickness, as well another material, like regular pasta, which at the end it didn't work well as material.
+
+imagen
+When the samples were ready, we put them in the oven to "cooked" them for changing their consistency and maybe have something edible again.
+
+We use this samples and explorations to our Design Dialogues exhibitions of how the organic waste around the neighborhood could be revalorized an use it for produce somethin else by upscaling it.
+
+### Compost cart
+
+From our research in the neighborhood we detected the need to have a tool that help us in the task of recollect the organic waste.
+
+So from this we design a cart, using CNC machines to cut a plywood sheet ad build it.
+
+
+
+
+
+
+
+#### ---- The next one is the team documentation  ----
 # Micro Challenge  II FabAcademy
 link to repository
 (https://github.com/terauchi-rei/fabchallange2.git)
