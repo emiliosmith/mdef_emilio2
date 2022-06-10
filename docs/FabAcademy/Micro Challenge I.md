@@ -29,6 +29,10 @@ We start searching and sketching different ideas from opensource boxes and inclu
 
 ![](../images/MC_1_1.jpg)
 
+![](../images/MC_1_6.jpg)
+
+![](../images/MC_1_7.jpg)
+
 From this sketches I start doing the 3D model in Rhinoceros to test the assembly and make a prototype and it is very easily to see how the joint could work.
 
 
@@ -47,6 +51,8 @@ This machine work with lines as well that images (in B/W for rasterize). So in o
 When the files are ready, in the machine you have to select the order in which the machine is going to start cutting and configure the power, the speed and the frequency.
 
 The assembly of the model was a task that Rei performed by her own.
+### Final artifact
+![](../images/MC_1_8.jpg)
 
 
 ---- This is the team documentation----
