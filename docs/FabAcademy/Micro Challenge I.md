@@ -57,7 +57,7 @@ The assembly of the model was a task that Rei performed by her own.
 
 
 
-#### ---- The next one is the team documentation  ----
+#### ---- The next post is the team documentation  ----
 
 
 link to repository

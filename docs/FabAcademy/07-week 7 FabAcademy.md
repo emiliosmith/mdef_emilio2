@@ -8,7 +8,7 @@ hide:
 
 ## Computer-Controlled Machining
 
-For this assignment we decided to use it for the Challenge, around the idea of our research of the master.
+For this assignment we decided to use it for the [Challenge II](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/Micro%20Challenge%20II/), around the idea of our research of the MDEF.
 
 The general concept is to empower connections inside people of a neighborhood for make it more productive through compost. We try to engage with different organic waste producers in order to collect their waste and take it to a community garden for making compost there.
 

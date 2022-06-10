@@ -10,7 +10,7 @@ hide:
 We use this challenge to explore different approaches to the concept of our research. In this challenge we decided to have 3 main goals:
 - To offer a different to the user to the food waste (3D printed bread cookies).
 - To have artifacts that could strengthen our concept of a network of collaboration around food waste for creating compost (Compost cart).
-- To have some aid for our Design Dialogues exhibition (exhibition aid).
+- To have some aid for our Design Dialogues exhibition (Exhibition aid).
 
 
 ### 3D printes bread cookies
@@ -46,13 +46,29 @@ From our research in the neighborhood we detected the need to have a tool that h
 
 So from this we design a cart, using CNC machines to cut a plywood sheet ad build it.
 
+I explain this project more in detail in the  Week 7 FabAcademy
+Computer-Controlled Machining .
+
+imagen
+![](../images/W7_2.jpg)
+
+![](../images/W7_1.jpg)
+
+![](../images/W7_3.gif)
+
+### Exhibition aid
+
+In this task we wanted to seize the material and the process that we used for the Compost cart and maximize the use of the CNC machine.
+
+As part of our Design Dialogues exhibitions we wanted to show the different stakeholders around the neighborhood and to show the most common organic wasted produced by them. We made a board of plywood which shows a map of the neighborhood. We manufactured this in the CNC machines with the compost trolley as well as some support for the different bio-materials that we have been working with.
 
 
 
 
 
 
-#### ---- The next one is the team documentation  ----
+
+#### ---- The next post is the team documentation  ----
 # Micro Challenge  II FabAcademy
 link to repository
 (https://github.com/terauchi-rei/fabchallange2.git)
