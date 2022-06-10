@@ -8,6 +8,7 @@ hide:
 
 ## Exploration around food waste.
 We use this challenge to explore different approaches to the concept of our research. In this challenge we decided to have 3 main goals:
+
 - To offer a different to the user to the food waste (3D printed bread cookies).
 - To have artifacts that could strengthen our concept of a network of collaboration around food waste for creating compost (Compost cart).
 - To have some aid for our Design Dialogues exhibition (Exhibition aid).
@@ -15,6 +16,8 @@ We use this challenge to explore different approaches to the concept of our rese
 
 ### 3D printes bread cookies
 During our research around different organic waste producers, we identify similar organic waste between them; coffee, bread, some rice and pasta are the most common.
+
+
 
 With this in mind we wanted to offer to the user a different view of their organic waste, that at the end it is not waste, is organic matter that could be used, processed or transformed in different way, and still be useful. We can have organic waste for the compost or we can have new product from it. We can design and make tool from it or even print it for creating artifacts or just another type of snack.
 
@@ -25,22 +28,44 @@ First we have to define a recipe for the bread, because in order to use the mach
 So Rei tried different proportions of water and salt, and adding that to the mixer with the bread.
 imagen
 
+![](../images/MC_2_1.jpg)
+
+
+
 For us to know that if the past would work, was to try it in a syringe (ass suggested by Edu).
 
 After this test and the recipe defined we start to making some test with the printer.
 
+![](../images/MC_2_2.jpg)
+
 The pasta 3D printer works a little bit different to the PLA one´s. For operate it, we was to define the path that the extruder is going to follow to generate the shape; this process we have to do it in grasshopper to create the gcode.
 
-Note. If you use it, you have to consider the thickness of the pasta that you are using it and how it will deformed when it is deposited. when you have defined that, configure the height of the extruder between layers.
+![](../images/MC_2_4.jpg)
+
+
+![](../images/MC_2_5.jpg)
+
+>Note. If you use it, you have to consider the thickness of the pasta that you are using it and how it will deformed when it is deposited. when you have defined that, configure the height of the extruder between layers.
 
 I use the grasshopper file that Edu share with us. Many thanks to Dafni and Edu.
 
 In this time we explore different shapes, layers, thickness, as well another material, like regular pasta, which at the end it didn't work well as material.
 
-imagen
+
+
+![](../images/CM_2_6.gif)
+
 When the samples were ready, we put them in the oven to "cooked" them for changing their consistency and maybe have something edible again.
 
+
+![](../images/MC_2_9.gif)
+
 We use this samples and explorations to our Design Dialogues exhibitions of how the organic waste around the neighborhood could be revalorized an use it for produce somethin else by upscaling it.
+
+![](../images/MC_2_3.jpg)
+
+
+![](../images/MC_2_91.gif)
 
 ### Compost cart
 
@@ -65,8 +90,9 @@ In this task we wanted to seize the material and the process that we used for th
 As part of our Design Dialogues exhibitions we wanted to show the different stakeholders around the neighborhood and to show the most common organic wasted produced by them. We made a board of plywood which shows a map of the neighborhood. We manufactured this in the CNC machines with the compost trolley as well as some support for the different bio-materials that we have been working with.
 
 
+![](../images/MC_2_7.jpg)
 
-
+![](../images/MC_2_8.jpg)
 
 #### ---- The next post is the team documentation  ----
 

@@ -7,16 +7,23 @@ hide:
 ## Personal reflection:
 
 We use this challenge to create artifact for explore our concept of the compost, of how it could be created indoors, in small or crowded places, and to try to understand how this activity could be performed in an urban context not only by farmer or gardeners.
+
+
 We wanted to everyone could performed that task as a daily basis.
 
 For this goal we sought to tackle the activity of making compost, a many of it misconception and to be part of a daily life.
+
+
 In order to that we design a compost bind from as a example of an open source design of a box.
+
+
 We want to include several characteristics such as:
+
 - Transparency in the Process.
 - As well light for the organic waste.
 - Ventilation.
 - Measure level of mass.
-- And a level of interactivness with the user.
+- And a level of interactivity with the user.
 
 From this task we use acrylic for having something transparent for the user to see and I design it in order for not to use any kind of glue using a type of assembly using the standard thickness of the acrylic.
 
@@ -42,7 +49,9 @@ Rhinoceros allows the user to have a 2D drawing from a 3D model. So when I finis
 
 ![](../images/MC_1_3.jpg)
 
-This machine work with lines as well that images (in B/W for rasterize). So in order to produce something with it, the draw have to be done in a vectorial software like AutoCAD Illustrator, Inkscape or any 3D software that can handle 2D drawings (dxf, dwg, ai)
+
+The laser cut machine work with lines as well that images (in B/W for rasterize). So in order to produce something with it, the draw have to be done in a vectorial software like AutoCAD Illustrator, Inkscape or any 3D software that can handle 2D drawings (dxf, dwg, ai)
+
 
 ![](../images/MC_1_4.jpg)
 
@@ -50,11 +59,12 @@ This machine work with lines as well that images (in B/W for rasterize). So in o
 
 When the files are ready, in the machine you have to select the order in which the machine is going to start cutting and configure the power, the speed and the frequency.
 
-The assembly of the model was a task that Rei performed by her own.
+
+
 ### Final artifact
 ![](../images/MC_1_8.jpg)
 
-
+*The assembly of the model was a task that Rei performed by her own.*
 
 
 #### ---- The next post is the team documentation  ----
