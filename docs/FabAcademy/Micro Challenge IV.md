@@ -12,7 +12,7 @@ link to my repository
 
 ![](Images/Encabezado_1.jpg)
 
-## History of the compost part 3
+## History of the compost part 4, a New Hope
 We use this Microchallenge IV to have the opportunity to finish and detail what is needed to complete our final design intervention of the Master´s.
 
 
