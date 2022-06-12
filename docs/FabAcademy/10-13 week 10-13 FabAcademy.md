@@ -91,3 +91,5 @@ After the PCB is ready we solder the components, in this case we only use male a
 When the components are soldered, I design a case in Rhino, with the final size of the components, and taking into account that in could be accessible for charging and replacing the sensor. The case was 3D printed in white PLA and the lid was laser cut in acrylic.
 
 ![](../images/W10_17.jpg)
+
+![](/images/w_3.jpg)
