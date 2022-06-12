@@ -76,8 +76,7 @@ From our research in the neighborhood we detected the need to have a tool that h
 
 So from this we design a cart, using CNC machines to cut a plywood sheet ad build it.
 
-I explain this project more in detail in the (Week 7)[https://emiliosmith.github.io/mdef_emilio2/FabAcademy/07-week%207%20FabAcademy/]
-Computer-Controlled Machining .
+I explain this project more in detail in the [Week 7](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/07-week%207%20FabAcademy/)Computer-Controlled Machining .
 
 
 ![](../images/W7_2.jpg)
