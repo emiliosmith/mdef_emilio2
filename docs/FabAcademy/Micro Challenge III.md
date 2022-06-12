@@ -41,7 +41,6 @@ When the circuit is done with the PCB and the LiPo battery, I design a case and 
 
 #### Final Images
 
-
 ![](/images/w_3.jpg)
 
 ![](/images/w_4.jpg)
