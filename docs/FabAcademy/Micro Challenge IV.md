@@ -10,7 +10,7 @@ link to my repository
 ===============
 
 
-![](Images/Encabezado_1.jpg)
+![](../images/Encabezado_1.jpg)
 
 ## History of the compost part 4, a New Hope
 We use this Microchallenge IV to have the opportunity to finish and detail what is needed to complete our final design intervention of the Master´s.
@@ -30,10 +30,10 @@ We approach to them in order to ignite a participatory process in where I talked
 We have to wait for the political process in order to everyone be agree with it.
 
 
-![](Images/pol_1.jpg)
+![](../images/pol_1.jpg)
 
 
-![](Images/pol_3.gif)
+![](../images/pol_3.gif)
 
 After that process was to define the place, because despite our explanation, the members still have misconceptions about the compost, like smell, animals and past bad experiences. This process takes us almost 3 weeks and at the end the final decision was taken for the most interested member of the community.
 
@@ -47,21 +47,21 @@ While the final location was defined we made a design process in order to know m
 As part of the exploration of from waste to nutrient, we make a collection of discarded pallets in order to have the material to build the bin.
 
 
-![](Images/waste_1.gif)
-![](Images/waste_2.jpg)
+![](../images/waste_1.gif)
+![](../images/waste_2.jpg)
 
 
 ### Construction
 Some features were made by CNC with raw material but they were needed for having the exact structure and proportion, and to have a spare of parts in order to give them to the community for further composters.  
 
-![](Images/Rhino_3.jpg)
+![](../images/Rhino_3.jpg)
 
-![](Images/Compsot_3.jpg)
+![](../images/Compsot_3.jpg)
 
 
 The process of building the compost was long because the decision of the final place was long and we have to change places a couple of times. During this time we have the support of a person that was in charge of maintain the space
 
-![](Images/compost_v6.gif)
+![](../images/compost_v6.gif)
 
 
 ## For the challenge IV
@@ -80,7 +80,7 @@ Derivate of the process they have been emerging different needs and enquires abo
 * Commitment 4.- Evaluation performance. Evaluate how well is working to make changes or adjustments, so in this part we are going to try the different sensor and empower people to use them and react from the data received.
     - Pending
 
-![](Images/sensor_1.jpg)
+![](../images/sensor_1.jpg)
 
 ### Commitment 1
 From the review with Jonathan and the information collected, we have the feedback of a design of a bin with certain features and we add another features that we wanted to explore for making more efficient, friendly and that allow the appropriation of the technique.
@@ -93,26 +93,26 @@ With the lead we can test discarded material like tempered glass donated by Audr
 
 The separate doors allows to throw the waste without loosing to much heat and the separate windows would help us to exchange and test different materials.
 
-![](Images/Rhino_2.jpg)
+![](../images/Rhino_2.jpg)
 
-![](Images/Rhino_1.jpg)
+![](../images/Rhino_1.jpg)
 
-![](Images/vidrio_1.jpg)
+![](../images/vidrio_1.jpg)
 
-![](Images/vidrio_2.jpg)
+![](../images/vidrio_2.jpg)
 
 
 
 This Thursday 02 we made the installation of the lid or cover, testing glass a polycarbonate and we made the first deposition to beginning the process in the processing chamber.
 The next day we have to measure and evaluate the temperature, and the amount of organic matter for having an optimal performance
 
-![](Images/Compsot_1.jpg)
+![](../imagess/Compsot_1.jpg)
 
-![](Images/compost_vf_1.gif)
+![](../images/compost_vf_1.gif)
 
-![](Images/compost_VF_4.gif)
+![](../images/compost_VF_4.gif)
 
-![](Images/Compsot_2.jpg)
+![](../images/Compsot_2.jpg)
 
 
 

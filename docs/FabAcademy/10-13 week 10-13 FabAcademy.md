@@ -92,4 +92,4 @@ When the components are soldered, I design a case in Rhino, with the final size 
 
 ![](../images/W10_17.jpg)
 
-![](/images/w_3.jpg)
+![](../images/w_3.jpg)
