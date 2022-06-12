@@ -21,7 +21,7 @@ From an ethical perspective we sought to have a tool that empower all the member
 
 We began the exploration to have a autonomous circuit powered by the sun. For the composter, the initial idea was to have a sensor that could function all the time, and sent the information to the member in a regular basis or too have a repository if the information in real time.
 
-We have as inspiration the Smart Citizen project as well as the (Grow Observatory)[https://growobservatory.org/data/]. From this, we started to use a capacitive humidity sensor with an analog output to use it with the ESP32.
+We have as inspiration the Smart Citizen project as well as the [Grow Observatory]([https://growobservatory.org/data/). From this, we started to use a capacitive humidity sensor with an analog output to use it with the ESP32.
 
 The first step was to understand how it works and the measures that are presented in the serial monitor. I choose to have a numerical output rather than the graph to understand better the information.
 
@@ -35,7 +35,7 @@ When the ESP is connected to the Wi-Fi creates an IP, so everyone could access t
 
 After we make the code works, with Mikel and Víctor. I try the prototype with a battery to have autonomy and to prove it in different places without be connected to the computer.
 
-Edu helped me in defining the best battery for the final product, I design a PCB for milling and mount the ESP with the battery and I weld the connector for the ESP and the sensor. I explain more of this in the week 10-13.
+Edu helped me in defining the best battery for the final product, I design a PCB for milling and mount the ESP with the battery and I weld the connector for the ESP and the sensor. I explain more of this in the [Week 10-13](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/10-13%20week%2010-13%20FabAcademy/).
 
 When the circuit is done with the PCB and the LiPo battery, I design a case and print it, having in mind that it has to have an easy access to the ESP to charge the LiPo battery.
 
@@ -62,8 +62,8 @@ I learn a lot of concepts with this project mostly in real life application, so 
 
 
 #### ---- The next post is the team documentation  ----
-link to repository
-(https://github.com/terauchi-rei/fabchallenge3.git)
+
+[link to repository ](https://github.com/terauchi-rei/fabchallenge3.git)
 
 ## Micro Challenge III
 
