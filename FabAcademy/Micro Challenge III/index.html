@@ -1135,14 +1135,14 @@
 <p>From an ethical perspective we sought to have a tool that empower all the member of the community, so we decided that the best way to accomplish that was by disseminate all the information regarding the health of the compost, in that way everyone could know how the compost is doing and encourage discussions, actions and participation. Having from only one expert and one interested to many experts and many interested.</p>
 <h4 id="process">Process<a class="headerlink" href="#process" title="Permanent link">&para;</a></h4>
 <p>We began the exploration to have a autonomous circuit powered by the sun. For the composter, the initial idea was to have a sensor that could function all the time, and sent the information to the member in a regular basis or too have a repository if the information in real time.</p>
-<p>We have as inspiration the Smart Citizen project as well as the (Grow Observatory)[https://growobservatory.org/data/]. From this, we started to use a capacitive humidity sensor with an analog output to use it with the ESP32.</p>
+<p>We have as inspiration the Smart Citizen project as well as the <a href="[https://growobservatory.org/data/">Grow Observatory</a>. From this, we started to use a capacitive humidity sensor with an analog output to use it with the ESP32.</p>
 <p>The first step was to understand how it works and the measures that are presented in the serial monitor. I choose to have a numerical output rather than the graph to understand better the information.</p>
 <p>As all analog sensors, this one send the information from 0 to 4095, measuring the conductivity from one diode to the other, that means when the soil is wet or completely soak, the conductivity is high and when the soil is completely dry, the conductivity is almost cero.</p>
 <p>I tested the sensor with different types of soil and I tried to set a standard for the compost soil; with Santi we started to work with a tutorial, which I explain more in the <a href="https://emiliosmith.github.io/mdef_emilio2/FabAcademy/14%20week%2014%20FabAcademy/">Week 14</a> , in which the ESP could function as a WebServer; with that application I can send the lecture of the sensor via Wi-Fi to an IP.</p>
 <p>In the code I have to transformed the information from the raw values of the sensor to percentage, in that way it could be easier for the people to understand the humidity of the sensor.</p>
 <p>When the ESP is connected to the Wi-Fi creates an IP, so everyone could access the measure of the humidity of the compost in any moment. So if connect my device to that IP I can have that information in any place.</p>
 <p>After we make the code works, with Mikel and Víctor. I try the prototype with a battery to have autonomy and to prove it in different places without be connected to the computer.</p>
-<p>Edu helped me in defining the best battery for the final product, I design a PCB for milling and mount the ESP with the battery and I weld the connector for the ESP and the sensor. I explain more of this in the week 10-13.</p>
+<p>Edu helped me in defining the best battery for the final product, I design a PCB for milling and mount the ESP with the battery and I weld the connector for the ESP and the sensor. I explain more of this in the <a href="https://emiliosmith.github.io/mdef_emilio2/FabAcademy/10-13%20week%2010-13%20FabAcademy/">Week 10-13</a>.</p>
 <p>When the circuit is done with the PCB and the LiPo battery, I design a case and print it, having in mind that it has to have an easy access to the ESP to charge the LiPo battery.</p>
 <h4 id="final-images">Final Images<a class="headerlink" href="#final-images" title="Permanent link">&para;</a></h4>
 <p><img alt="" src="../../images/w_3.jpg" /></p>
@@ -1158,8 +1158,7 @@
 - Many of the sensors don´t work property when they are connected to a 3v3 pin or 5v.
 - The ESP when it is connected to the Wi-Fi, it enable some pins.</p>
 <h4 id="-the-next-post-is-the-team-documentation-">---- The next post is the team documentation  ----<a class="headerlink" href="#-the-next-post-is-the-team-documentation-" title="Permanent link">&para;</a></h4>
-<p>link to repository
-(https://github.com/terauchi-rei/fabchallenge3.git)</p>
+<p><a href="https://github.com/terauchi-rei/fabchallenge3.git">link to repository </a></p>
 <h2 id="micro-challenge-iii">Micro Challenge III<a class="headerlink" href="#micro-challenge-iii" title="Permanent link">&para;</a></h2>
 <p>===============</p>
 <p>by <a href="https://terauchi-rei.github.io/mdefweb/">Rei Terauchi</a> &amp; <a href="https://emiliosmith.github.io/mdef_emilio2/">Emilio Smith</a></p>
