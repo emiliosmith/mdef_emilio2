@@ -27,7 +27,7 @@ The first step was to understand how it works and the measures that are presente
 
 As all analog sensors, this one send the information from 0 to 4095, measuring the conductivity from one diode to the other, that means when the soil is wet or completely soak, the conductivity is high and when the soil is completely dry, the conductivity is almost cero.
 
-I tested the sensor with different types of soil and I tried to set a standard for the compost soil; with Santi we started to work with a tutorial, which I explain more in the  (Week 14)[https://emiliosmith.github.io/mdef_emilio2/FabAcademy/14%20week%2014%20FabAcademy/], in which the ESP could function as a WebServer; with that application I can send the lecture of the sensor via Wi-Fi to an IP.
+I tested the sensor with different types of soil and I tried to set a standard for the compost soil; with Santi we started to work with a tutorial, which I explain more in the [Week 14](https://emiliosmith.github.io/mdef_emilio2/FabAcademy/14%20week%2014%20FabAcademy/) , in which the ESP could function as a WebServer; with that application I can send the lecture of the sensor via Wi-Fi to an IP.
 
 In the code I have to transformed the information from the raw values of the sensor to percentage, in that way it could be easier for the people to understand the humidity of the sensor.
 
