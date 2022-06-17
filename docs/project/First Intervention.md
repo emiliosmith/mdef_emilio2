@@ -57,23 +57,6 @@ COMPANION COMPOST WITH CLASSMATES
 There are a lot of ways for making compost, This activity responds to the type of space available, resources, etc.
 For this workshop, we tried to communicate a technique for making compost by using different types of organic waste for making it faster and more convenient for people that don’t have too much space.
 
-We perform the workshop with the IAAC classmate that showed interest in making compost for a specific end, like growing food or having
-nutrients for their plants. With that in mind, we
-explain the process and the conditions need to
-make the compost and everyday easy activity.
-After these workshops, we define some insights
-that help us to reframe our concept and have a
-broader understanding of the future that we
-wanted to design; after this, we formulate our
-Theory of Change for framed on a prompt question
-that would help us to shape our next design
-interventions.
-INSIGHTS FROM THE WORKSHOP
-• To have an Environmental consciousness
-doesn't mean that a person has positive activities
-for the environment in his/her personal life.
-• The activity of making compost is an opportunity
-for people to try new regenerative lifestyles.
-• We are searching for a deeper approach to
-making compost that can be more personal and
-conscious activity.
+We perform the workshop with the IAAC classmate that showed interest in making compost for a specific end, like growing food or having nutrients for their plants. With that in mind, we explain the process and the conditions need to make the compost and everyday easy activity.
+
+After these workshops, we define some insights that help us to reframe our concept and have a broader understanding of the future that we wanted to design; after this, we formulate our Theory of Change for framed on a prompt question that would help us to shape our next design interventions.
