@@ -5,14 +5,22 @@ hide:
 
 # 1PP composting as part of a community
 -Learning for experience
--design for conviviality
--LEarning as apart of a community
--design for the proximty
--empower sharing knowedge for a community
-How we can connect the different knowledges between peoples in order to dedign for the commons?  as a cognitive echologies?
 
---ref Collaborative consumption and peer-to-peer collaboration
-daniel christian wahl
+-Design for conviviality and participation
+
+-Learning as apart of a community
+
+-Design for the proximty
+
+-Empower sharing knowedge for a community
+
+#### Design Question
+*How we can connect the different knowledges between peoples in order to dedign for the commons?  as a cognitive echologies?*
+
+--Reference:
+Collaborative consumption and peer-to-peer collaboration
+
+Daniel Christian Wahl
 
 How we can learn for the microcosmo for uderstandin the macrocosmo?
 
@@ -22,7 +30,6 @@ How we can learn for the microcosmo for uderstandin the macrocosmo?
 https://medium.com/age-of-awareness/the-new-alchemy-institute-d0992ce33a68
 
 
-notesfor community composting
-co-producing means an equal and reciprocal relationship between
-professionals, people using services, their families and their neighbours. Where activities are coproduced in this way, both services and neighbourhoods become far more effective agents of
-change
+*Notes for Community Composting:*
+
+co-producing means an equal and reciprocal relationship between professionals, people using services, their families and their neighbours. Where activities are coproduced in this way, both services and neighbourhoods become far more effective agents of a regenerative culture.
