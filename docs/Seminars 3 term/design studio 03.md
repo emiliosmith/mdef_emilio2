@@ -9,7 +9,7 @@ hide:
 ## Alternative compost present (02/05)
 We understand from our compost so far, many branches for development and many approaches from a regenerative practice could be designed and performed.
 
-We decided to design around two main concepts:
+**We decided to design around two main concepts:**
 1.- Design tooling for enabling the task for making compost; meaning that for this task is necessary to create tools that encourage any user to perform this activity and transform their immediate space with what they have at hand, including their our “waste”.
 
 2.- Design for a community compost: once having developed a universe of tools and practices we pretend to create a network in which it each member could have a degree of participation and can contribute with different activities in different spaces.
@@ -32,7 +32,8 @@ We have identified so far different stakeholders around the system of the compos
 *– The Productive Space:* This is a place where it could be produced, stored, and distributed, places such as Abono0-Connecthort.
 *– The Distributors:* could be persons that walk around the block that goes from one point to another, they could help the network to move the organic waste inside it. At the same time, this person could have any role of the above; like a member of a community garden, organizations like Abono0, or an Enthusiast
 *– Enthusiast:* we define a type of user that wants to participate and only bring organic waste to have fertilized soil for his or her personal use, and doesn’t have a deeper level of commitment or knowledge, as we see with the community that is close to Abono0.
-
 ###Which one are you?
 
 From this network, our first intention was to find a place that could have a lot of traction inside the network, in which the different relationships could exist, the ideal place, is a community garden.
+
+![](../images/present_1)
