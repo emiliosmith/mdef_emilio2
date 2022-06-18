@@ -19,5 +19,4 @@ From the initiative of some members of the MDEF classmates. With Didac Torrent, 
 
 From this exploration, I managed to gather some good material and use open-source information about building bat houses I was able to make a house for the bats, that now is part of the garden, waiting to be habited.
 
-![](../images/waste_1.gif)
-![](../images/waste_2.jpg)
+![](../images/di_2_2-40.jpg)

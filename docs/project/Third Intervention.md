@@ -33,7 +33,7 @@ After gathering all the data, we decided on the feature around the compost and e
 In Barcelona, it is mandatory in any neighborhood to take the waste on a particular day for their recollection, in those days you can find it from furniture to pallets, objects, wood, etc. As part of the second intervention with other community gardens, building the chiropterans house, I used discarded pallets and materials found in the street for building the house using the material available. This waste management in the city represents an
 opportunity for applying a circular economy strategy by reusing the discarded wood pallet for making almost anything.
 
-From my last experience,I get the skills for hunting and working with whatever could be founded in the streets of Poblenou. For this intervention, conceptually didn´t make sense on any level to build it with new material or raw material; as part of the exploration of waste to nutrients, we make a collection of discarded pallets to have the material to build the compost bin.
+From my last experience, I get the skills for hunting and working with whatever could be founded in the streets of Poblenou. For this intervention, conceptually didn´t make sense on any level to build it with new material or raw material; as part of the exploration of waste to nutrients, we make a collection of discarded pallets to have the material to build the compost bin.
 ![](../images/DI_3_1-36.jpg)
 
 

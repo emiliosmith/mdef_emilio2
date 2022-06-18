@@ -24,11 +24,15 @@ ability to grow our food from our organic waste.
 
 We believe that compost will be an essential regenerative activity for any citizen of the future.
 
-•How a bottom-up approach in the design intervention would engage in making compost individually?
-•How people could be empowered by creating a universe of tools and repositories with accessible information?
-• What is the behavior of people around the compost and how it could be designed?
-•How a companion relationship could be born between persons and compost?
-•How these companion species could encourage a connection with nature? (⁵)
+*•How a bottom-up approach in the design intervention would engage in making compost individually?*
+
+*•How people could be empowered by creating a universe of tools and repositories with accessible information?*
+
+*• What is the behavior of people around the compost and how it could be designed?*
+
+*•How a companion relationship could be born between persons and compost?*
+
+*•How these companion species could encourage a connection with nature?*
 
 
 ####DESIGN INTERVENTION'S MAIN GOAL
@@ -48,6 +52,8 @@ To make it so, from Rei’s research and experience it was designed a type of co
 Having both of these conditions as design requirements, we design the compost as a living being, a companion specie to create a meaningful bond between the user and the compost, creating the responsibility of taking care of it for mutual benefits.
 
 To achieve that purpose first, we plan an initial activity in which the user, and the children could create their companion, by choosing a container and personalized it with drawings or props and naming it.
+
+
 After the instructions on how to nourish it or feed it was given, an opportunity to reflect and question how the food is obtained and disposed of and to stop perceiving the food waste as “waste” and start perceiving it as a nutrient for another being, or metabolic system.
 
 
@@ -61,4 +67,4 @@ We perform the workshop with the IAAC classmate that showed interest in making c
 
 After these workshops, we define some insights that help us to reframe our concept and have a broader understanding of the future that we wanted to design; after this, we formulate our Theory of Change for framed on a prompt question that would help us to shape our next design interventions.
 
-![](../images/DI_1-38.jpg)
+![](../images/DI_2-39.jpg)
