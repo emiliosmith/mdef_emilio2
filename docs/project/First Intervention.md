@@ -8,7 +8,7 @@ hide:
 
 For our first design intervention we decided to engage with people of different backgrounds to encouraged them for making his/her compost though a workshop, planned to communicate the process and develop the skills needed.
 
-COMPANION COMPOST BACKGROUND
+####COMPANION COMPOST BACKGROUND
 
 Companions Compost is the result of our first design interventions framed in the first term. Working with compost is a path that I understand as an activity that could work at an individual, community, and city level.
 
@@ -18,7 +18,7 @@ compost is an activity that could be a sustainable alternative for taking the fo
 
 
 
-CORE CONCEPT & DESIGN QUESTIONS
+####CORE CONCEPT & DESIGN QUESTIONS
 The constant change of society is a factor that directly affects the entire planet, therefore our present activities are shaping our future. From these many signals, it is possible to imagine scenarios in which it will be crucial for every person to have different skills and knowledge that are not developed nowadays, such as the
 ability to grow our food from our organic waste.
 
@@ -31,7 +31,7 @@ We believe that compost will be an essential regenerative activity for any citiz
 •How these companion species could encourage a connection with nature? (⁵)
 
 
-DESIGN INTERVENTION'S MAIN GOAL
+####DESIGN INTERVENTION'S MAIN GOAL
 
 As our first design intervention, we decide to try to engage with to make his / her own compost through a workshop, planned to communicate the process and develop the skills needed.
 
@@ -50,9 +50,9 @@ Having both of these conditions as design requirements, we design the compost as
 To achieve that purpose first, we plan an initial activity in which the user, and the children could create their companion, by choosing a container and personalized it with drawings or props and naming it.
 After the instructions on how to nourish it or feed it was given, an opportunity to reflect and question how the food is obtained and disposed of and to stop perceiving the food waste as “waste” and start perceiving it as a nutrient for another being, or metabolic system.
 
-The creation of opportunities of talking about the organic waste the food,
 
-COMPANION COMPOST WITH CLASSMATES
+
+####COMPANION COMPOST WITH CLASSMATES
 
 There are a lot of ways for making compost, This activity responds to the type of space available, resources, etc.
 For this workshop, we tried to communicate a technique for making compost by using different types of organic waste for making it faster and more convenient for people that don’t have too much space.
@@ -60,3 +60,5 @@ For this workshop, we tried to communicate a technique for making compost by usi
 We perform the workshop with the IAAC classmate that showed interest in making compost for a specific end, like growing food or having nutrients for their plants. With that in mind, we explain the process and the conditions need to make the compost and everyday easy activity.
 
 After these workshops, we define some insights that help us to reframe our concept and have a broader understanding of the future that we wanted to design; after this, we formulate our Theory of Change for framed on a prompt question that would help us to shape our next design interventions.
+
+![](../images/DI_1-38.jpg)
