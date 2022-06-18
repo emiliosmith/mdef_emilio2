@@ -52,4 +52,5 @@ various meetings with the member to explain how to use it, and its features, and
 After having our participatory process with the members of the garden to understand their barriers, pains, and resources around the compost, we had a review with Jonathan Minchin in which we decided the form and the process to be the more efficient for them.
 
 ![](../DI_3_1-35.jpg)
+
 ![](../DI_3_1-37.jpg)
